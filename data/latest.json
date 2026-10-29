@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T17:30:01.067230+00:00",
+  "updated": "2026-10-29T17:38:49.849630+00:00",
   "feeds": [
     {
       "id": "cnn10",
@@ -45,6 +45,100 @@
           "title": "A New Mars Mission Aims to Uncover the Mysteries of Its Moons",
           "link": "",
           "date": "Tue, 20 Oct 2026 12:42:00 -0000"
+        }
+      ]
+    },
+    {
+      "id": "npr-world",
+      "name": "NPR World",
+      "url": "https://feeds.npr.org/1004/rss.xml",
+      "items": [
+        {
+          "title": "US and Japan agree to establish a Japanese facility for joint missile production",
+          "link": "https://www.npr.org/2026/10/29/g-s1-150666/us-and-japan-agree-to-establish-a-japanese-facility-for-joint-missile-production",
+          "date": "Thu, 29 Oct 2026 11:58:27 -0400"
+        },
+        {
+          "title": "China elevates a military general to the Politburo and seeks to strengthen party discipline",
+          "link": "https://www.npr.org/2026/10/29/g-s1-150645/china-elevates-a-military-general-to-the-politburo-and-seeks-to-strengthen-party-discipline",
+          "date": "Thu, 29 Oct 2026 11:53:46 -0400"
+        },
+        {
+          "title": "Greetings from Baghdad, where Agatha Christie's old home presents its own mystery",
+          "link": "https://www.npr.org/2026/10/29/g-s1-150319/agatha-christie-baghdad-home",
+          "date": "Thu, 29 Oct 2026 10:52:11 -0400"
+        },
+        {
+          "title": "GDP report to give insight before Election Day. And, Israel's election is deadlocked",
+          "link": "https://www.npr.org/2026/10/29/g-s1-150614/up-first-newsletter-midterm-elections-gdp-inflation-israel-department-of-education-lawsuit",
+          "date": "Thu, 29 Oct 2026 07:34:30 -0400"
+        },
+        {
+          "title": "How AI drones are influencing the course of the Ukraine war",
+          "link": "https://www.npr.org/2026/10/29/g-s1-147496/ukraine-ai-drones-war-russia",
+          "date": "Thu, 29 Oct 2026 05:02:00 -0400"
+        },
+        {
+          "title": "Spain reckons with 2nd deadly train crash of the year ahead of national election",
+          "link": "https://www.npr.org/2026/10/29/nx-s1-6021963/spain-train-crash-updates",
+          "date": "Thu, 29 Oct 2026 02:10:11 -0400"
+        },
+        {
+          "title": "Brazilian political drama unfolds as defeated Flavio Bolsonaro arrives in Miami",
+          "link": "https://www.npr.org/2026/10/28/nx-s1-6020518/brazilian-political-drama-unfolds-as-defeated-flavio-bolsonaro-arrives-in-miami",
+          "date": "Wed, 28 Oct 2026 17:46:27 -0400"
+        },
+        {
+          "title": "Israel's election too close to call. And, the Ebola outbreak reaches grim milestone",
+          "link": "https://www.npr.org/2026/10/28/g-s1-150313/up-first-newsletter-midterm-campaign-trump-israel-elections-federal-reserve-ebola-outbreak",
+          "date": "Wed, 28 Oct 2026 07:28:55 -0400"
+        }
+      ]
+    },
+    {
+      "id": "guardian-world",
+      "name": "The Guardian · World",
+      "url": "https://www.theguardian.com/world/rss",
+      "items": [
+        {
+          "title": "Egypt fines prominent editor Lina Attalah and shuts independent news outlet Mada Masr",
+          "link": "https://www.theguardian.com/world/2026/oct/28/egypt-lina-attalah-mada-masr-press-freedom-clampdown",
+          "date": "Wed, 28 Oct 2026 14:16:24 GMT"
+        },
+        {
+          "title": "Africa’s ‘unprecedented’ Ebola outbreak could reach UK, says top health official",
+          "link": "https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official",
+          "date": "Wed, 28 Oct 2026 09:37:49 GMT"
+        },
+        {
+          "title": "UK sanctions Sudanese military leaders implicated in El Fasher ‘campaign of rape’",
+          "link": "https://www.theguardian.com/global-development/2026/oct/26/uk-sanctions-sudanese-military-leaders-implicated-in-el-fasher-campaign-of",
+          "date": "Mon, 26 Oct 2026 15:07:23 GMT"
+        },
+        {
+          "title": "US forces accused of ‘weaponising’ Somalia’s floods by trapping women and children in the path of El Niño",
+          "link": "https://www.theguardian.com/global-development/2026/oct/26/us-forces-accused-of-weaponising-somalia-flood-el-nino",
+          "date": "Mon, 26 Oct 2026 11:00:40 GMT"
+        },
+        {
+          "title": "Sudan paramilitary drone strikes cause mass power cuts in eastern states",
+          "link": "https://www.theguardian.com/world/2026/oct/26/sudan-paramilitary-drone-strikes-rapid-support-forces-power-cuts-eastern-states",
+          "date": "Mon, 26 Oct 2026 09:59:27 GMT"
+        },
+        {
+          "title": "Flávio Bolsonaro calls himself the ‘leader of Brazil’ after fleeing to Miami",
+          "link": "https://www.theguardian.com/world/2026/oct/28/flavio-bolsonaro-miami-us-fleeing-brazilian-election-defeat",
+          "date": "Wed, 28 Oct 2026 22:06:46 GMT"
+        },
+        {
+          "title": "EU backs away from offer to Canada to start ‘associate member’ talks",
+          "link": "https://www.theguardian.com/world/2026/oct/28/european-union-canada",
+          "date": "Wed, 28 Oct 2026 21:27:33 GMT"
+        },
+        {
+          "title": "US ambassador suggests Trump could blame Canada if midterms don’t go his way",
+          "link": "https://www.theguardian.com/world/2026/oct/28/canada-ambassador-republicans-midterms",
+          "date": "Wed, 28 Oct 2026 20:15:07 GMT"
         }
       ]
     }
