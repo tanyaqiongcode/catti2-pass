@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>动态 · CATTI 二笔二口通关站</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎖️</text></svg>">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<header class="topbar"><div class="topbar-inner">
+  <a class="brand" href="index.html">CATTI 二笔二口 <span>通关站</span></a>
+  <nav>
+    <a href="index.html">首页</a>
+    <a href="plan.html">备考计划</a>
+    <a href="exam.html">考试详解</a>
+    <a href="practice.html">真题·模拟</a>
+    <a href="terms.html">热词词条库</a>
+    <a href="news.html">动态</a>
+    <a href="resources.html">资源库</a>
+  </nav>
+</div></header>
+
+<main class="wrap">
+
+<section class="hero">
+  <h1>动态 <span class="pill">GitHub Actions 每日 08:30（UTC）更新</span></h1>
+  <p class="lead">外刊播客是英译汉与英汉交传的题源池：<b>每周从下面挑 2–3 期精听</b>，摘要写成听力综述，生词进词条库。官方热词渠道见<a href="resources.html">资源库</a>。</p>
+</section>
+
+<div id="feeds">
+  <p class="status">加载中…</p>
+</div>
+
+<p class="footnote">数据由 <code>scripts/update_feeds.py</code> 抓取公开 RSS 生成（<code>data/latest.json</code>），单个源失败不影响其他源。</p>
+</main>
+<footer>CATTI 二笔二口通关站 · 目标 2027 年 6 月</footer>
+<script src="assets/main.js"></script>
+<script>
+(function () {
+  fetch("data/latest.json")
+    .then((r) => r.json())
+    .then((data) => {
+      const box = document.getElementById("feeds");
+      box.innerHTML = (data.feeds || []).map((f) => `
+        <h2>${f.name} <a class="pill" style="text-decoration:none" href="${f.url}" target="_blank" rel="noopener">RSS</a></h2>
+        <div class="card feed">
+          ${(f.items || []).map((i) => `
+            <div class="feed-item">
+              <time>${(i.date || "").slice(0, 10)}</time>
+              <a href="${i.link}" target="_blank" rel="noopener">${i.title}</a>
+            </div>`).join("") || '<p class="status">本期无更新。</p>'}
+        </div>`).join("") || '<p class="status">暂无数据。</p>';
+      const t = new Date(data.updated);
+      if (!isNaN(t)) box.insertAdjacentHTML("afterbegin",
+        `<p class="sub">数据更新于 ${t.toISOString().slice(0, 16).replace("T", " ")} UTC</p>`);
+    })
+    .catch(() => {
+      document.getElementById("feeds").innerHTML =
+        '<p class="status">动态数据加载失败。本地预览属正常现象——推送后由 GitHub Actions 每日抓取更新。</p>';
+    });
+})();
+</script>
+</body>
+</html>

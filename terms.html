@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>热词词条库 · CATTI 二笔二口通关站</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎖️</text></svg>">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<header class="topbar"><div class="topbar-inner">
+  <a class="brand" href="index.html">CATTI 二笔二口 <span>通关站</span></a>
+  <nav>
+    <a href="index.html">首页</a>
+    <a href="plan.html">备考计划</a>
+    <a href="exam.html">考试详解</a>
+    <a href="practice.html">真题·模拟</a>
+    <a href="terms.html">热词词条库</a>
+    <a href="news.html">动态</a>
+    <a href="resources.html">资源库</a>
+  </nav>
+</div></header>
+
+<main class="wrap">
+
+<section class="hero">
+  <h1>热词词条库 <span class="pill" id="term-count">…</span></h1>
+  <p class="lead">中文在正面，官方标准译法在背面。<b>点击卡片翻面</b>，右下角按钮标记「已掌握」（存在本地浏览器）。实务评分里立场性表述译错按严重误译扣 5 分——这些词条就是保分底线。</p>
+  <div class="cta">
+    <button class="btn ghost small" id="btn-only-unlearned">只看未掌握</button>
+    <button class="btn ghost small" id="btn-shuffle">随机打乱</button>
+    <button class="btn ghost small" id="btn-export">导出未掌握清单</button>
+  </div>
+</section>
+
+<div class="term-toolbar">
+  <input type="search" id="q" placeholder="搜索中文或英文，如：新质生产力 / low-carbon …">
+  <div id="chips" style="display:flex;gap:8px;flex-wrap:wrap"></div>
+</div>
+
+<div class="term-grid" id="grid"></div>
+<p class="status" id="empty" style="display:none">没有匹配的词条。</p>
+
+<p class="footnote">来源：中国日报网双语热词汇总、口译末考词汇打印版（本地资料），另整理双碳白皮书、十五五建议、外交倡议等官方标准译法。资料更新后重跑 <code>scripts/build_terms.py</code> 即可重建。</p>
+</main>
+<footer>CATTI 二笔二口通关站 · 目标 2027 年 6 月</footer>
+<script src="assets/terms.js"></script>
+</body>
+</html>
