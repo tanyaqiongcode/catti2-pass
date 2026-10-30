@@ -25,13 +25,15 @@
 
 <section class="hero">
   <h1>热词词条库 <span class="pill" id="term-count">…</span></h1>
-  <p class="lead">中文在正面，官方标准译法在背面。<b>点击卡片翻面</b>，右下角按钮标记「已掌握」（存在本地浏览器）。实务评分里立场性表述译错按严重误译扣 5 分——这些词条就是保分底线。</p>
+  <p class="lead">中文在正面，官方标准译法在背面。<b>点击卡片翻面</b>，背面右下角<b>「✓ 标记已掌握」</b>（存在本地浏览器，刷新不丢）。实务评分里立场性表述译错按严重误译扣 5 分——这些词条就是保分底线。</p>
   <div class="cta">
     <button class="btn ghost small" id="btn-only-unlearned">只看未掌握</button>
     <button class="btn ghost small" id="btn-shuffle">随机打乱</button>
     <button class="btn ghost small" id="btn-export">导出未掌握清单</button>
   </div>
 </section>
+
+<div class="callout hard" id="notice" style="display:none"></div>
 
 <div class="term-toolbar">
   <input type="search" id="q" placeholder="搜索中文或英文，如：新质生产力 / low-carbon …">
@@ -41,9 +43,17 @@
 <div class="term-grid" id="grid"></div>
 <p class="status" id="empty" style="display:none">没有匹配的词条。</p>
 
-<p class="footnote">来源：中国日报网双语热词汇总、口译末考词汇打印版（本地资料），另整理双碳白皮书、十五五建议、外交倡议等官方标准译法。资料更新后重跑 <code>scripts/build_terms.py</code> 即可重建。</p>
+<h2>词条来源</h2>
+<div class="grid c3">
+  <div class="card"><h3>中国日报网双语热词汇总</h3><p style="margin:0">本地 docx（2026.6），词条分类「政报热词 2026.6」。线上同源：<a href="https://language.chinadaily.com.cn/" target="_blank" rel="noopener">中国日报网英语点津</a>（每日一词 / 双语新闻）。</p></div>
+  <div class="card"><h3>口译末考词汇打印版</h3><p style="margin:0">本地 docx，词条分类「时政表述·口译高频」。内容与<a href="https://www.chinakeywords.com/" target="_blank" rel="noopener">《中国关键词》</a>、十五五建议官方英译一致。</p></div>
+  <div class="card"><h3>官方标准译法整理</h3><p style="margin:0">手工整理的双碳白皮书、十五五、外交倡议等标准译法，核对源：<a href="https://www.chinakeywords.com/" target="_blank" rel="noopener">中国关键词</a>、<a href="http://www.scio.gov.cn/" target="_blank" rel="noopener">国新办白皮书</a>。</p></div>
+</div>
+
+<p class="footnote">资料更新后重跑 <code>scripts/build_terms.py</code> 重建词表（缺源文件会报错停止，不会误覆写线上数据）。</p>
 </main>
 <footer>CATTI 二笔二口通关站 · 目标 2027 年 6 月</footer>
+<script src="assets/storage.js"></script>
 <script src="assets/terms.js"></script>
 </body>
 </html>

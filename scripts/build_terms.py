@@ -1,6 +1,11 @@
 #!/usr/bin/env python3
 """从本地双语词汇 docx 提取词条，合并人工整理的官方标准译法，生成 data/terms.json。
-仅本机构建时运行一次（或资料更新后重跑）；docx 路径按 2026-10 的本地资料库布局。"""
+
+护栏（防止误覆写线上词表）：
+  1. 必需源文件缺失 → 报错退出，不写任何文件；
+  2. 新词表条数比现有 data/terms.json 下降超过 20% → 拒绝写入（疑似提取异常）；
+  3. 单条词条 zh/en 非空、去重。
+docx 路径按 2026-10 的本地资料库布局；资料更新后重跑。"""
 import json
 import re
 import sys
@@ -9,6 +14,7 @@ from pathlib import Path
 
 CATTI_DIR = Path.home() / "Desktop/学习/CATTI"
 OUT = Path(__file__).resolve().parent.parent / "data" / "terms.json"
+MIN_SHRINK_RATIO = 0.8  # 新条数 < 现有条数×0.8 时拒绝写入
 
 # 人工补充：2026–2027 高频官方标准译法（白皮书/政报/联合国文件常用表述）
 EXTRA = [
@@ -58,6 +64,12 @@ EXTRA = [
     ("新型国际关系", "a new type of international relations", "外交与国际"),
 ]
 
+# 必需源：任何缺失都停止构建（词表是站内数据，残缺版本不如不写）
+REQUIRED_SOURCES = [
+    ("中国日报网双语热词6月汇总.docx", "政报热词 2026.6"),
+    ("口译末考词汇打印版260106.docx", "时政表述·口译高频"),
+]
+
 
 def docx_lines(path: Path):
     with zipfile.ZipFile(path) as z:
@@ -82,38 +94,56 @@ def pairs(lines):
 
 
 def main():
+    missing = [(f, cat) for f, cat in REQUIRED_SOURCES if not (CATTI_DIR / f).exists()]
+    if missing:
+        for f, _ in missing:
+            print(f"ERROR 缺少必需源文件: {CATTI_DIR / f}", file=sys.stderr)
+        print("构建已停止：不生成残缺词表。请在装有 CATTI 资料库的机器上运行，或修正 REQUIRED_SOURCES。", file=sys.stderr)
+        sys.exit(2)
+
     terms, seen = [], set()
 
-    hot = CATTI_DIR / "中国日报网双语热词6月汇总.docx"
-    if hot.exists():
-        lines = docx_lines(hot)
+    for fname, cat in REQUIRED_SOURCES:
+        path = CATTI_DIR / fname
+        lines = docx_lines(path)
         if lines and lines[0] == "中文":
             lines = lines[1:]
-        for zh, en in pairs(lines):
+        got = pairs(lines)
+        if len(got) < 10:
+            print(f"ERROR {fname} 仅解析出 {len(got)} 对词条（<10），疑似文件损坏或格式变化", file=sys.stderr)
+            sys.exit(2)
+        for zh, en in got:
             if zh not in seen:
                 seen.add(zh)
-                terms.append({"zh": zh, "en": en, "cat": "政报热词 2026.6", "src": "中国日报网双语热词汇总"})
-
-    interp = CATTI_DIR / "口译末考词汇打印版260106.docx"
-    if interp.exists():
-        for zh, en in pairs(docx_lines(interp)):
-            if zh not in seen:
-                seen.add(zh)
-                terms.append({"zh": zh, "en": en, "cat": "时政表述·口译高频", "src": "口译末考词汇打印版"})
+                terms.append({"zh": zh, "en": en, "cat": cat, "src": fname[:-5] if fname.endswith(".docx") else fname})
 
     for zh, en, cat in EXTRA:
         if zh not in seen:
             seen.add(zh)
             terms.append({"zh": zh, "en": en, "cat": cat, "src": "官方标准译法整理"})
 
+    terms = [t for t in terms if t["zh"].strip() and t["en"].strip()]
+
+    # 条数护栏：与现有词表对比，骤降视为提取异常
+    old_count = None
+    if OUT.exists():
+        try:
+            old_count = len(json.loads(OUT.read_text(encoding="utf-8")).get("terms", []))
+        except (json.JSONDecodeError, OSError):
+            old_count = None
+    if old_count is not None and len(terms) < old_count * MIN_SHRINK_RATIO:
+        print(
+            f"ERROR 新词表 {len(terms)} 条 < 现有 {old_count} 条的 {int(MIN_SHRINK_RATIO * 100)}%，疑似提取异常，已拒绝写入。",
+            file=sys.stderr,
+        )
+        sys.exit(3)
+
+    OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(
         json.dumps({"updated": "2026-10-30", "count": len(terms), "terms": terms}, ensure_ascii=False, indent=1) + "\n",
         encoding="utf-8",
     )
-    print(f"wrote {OUT} with {len(terms)} terms")
-    missing = [n for n in (hot, interp) if not n.exists()]
-    if missing:
-        print("未找到（已跳过）: " + ", ".join(m.name for m in missing), file=sys.stderr)
+    print(f"wrote {OUT} with {len(terms)} terms (previous: {old_count if old_count is not None else 'n/a'})")
 
 
 if __name__ == "__main__":

@@ -1,0 +1,42 @@
+name: ci
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: 学习记录存取单元测试
+        run: node scripts/test_storage.js
+
+      - name: JS 语法检查
+        run: |
+          node --check assets/storage.js
+          node --check assets/terms.js
+          node --check assets/main.js
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 数据文件校验
+        run: python3 scripts/validate_data.py
+
+      - name: build_terms 缺源护栏验证
+        run: |
+          # CI 机器上没有本地 CATTI 资料库，构建必须报错停止（exit 2）而不是写出残缺词表
+          if python3 scripts/build_terms.py; then
+            echo "ERROR: 缺源时构建应当失败"; exit 1
+          else
+            code=$?; echo "构建按预期停止 (exit $code)"
+            test "$code" -eq 2
+          fi

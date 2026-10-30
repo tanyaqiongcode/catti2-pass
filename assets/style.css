@@ -129,6 +129,10 @@ code { background: var(--accent-soft); padding: 1px 6px; border-radius: 6px; fon
 .tface.back .en { color: var(--accent-strong); font-size: 14.5px; line-height: 1.5; }
 .tcard.master .tface.front { border-color: color-mix(in srgb, var(--ok) 55%, var(--line)); }
 .tcard.master .tface.front::after { content: "✓"; position: absolute; top: 8px; left: 12px; color: var(--ok); font-weight: 800; }
+.tface.back .en { padding-bottom: 34px; }
+.mark { position: absolute; bottom: 10px; right: 12px; border: none; border-radius: 999px; padding: 5px 13px; font-size: 12px; font-weight: 700; cursor: pointer; background: var(--accent); color: #fff; font-family: inherit; }
+.mark:hover { filter: brightness(1.1); }
+.mark.on { background: var(--ok); }
 
 /* 练习页 */
 .answer { display: none; border-left: 3px solid var(--accent); background: var(--accent-soft); border-radius: 0 10px 10px 0; padding: 14px 18px; margin-top: 12px; }
