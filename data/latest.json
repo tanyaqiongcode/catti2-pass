@@ -1,6 +1,53 @@
 {
-  "updated": "2026-10-29T17:38:49.849630+00:00",
+  "updated": "2026-10-30T06:07:35.652249+00:00",
   "feeds": [
+    {
+      "id": "bbc-globalnews",
+      "name": "BBC Global News Podcast",
+      "url": "https://downloads.bbc.co.uk/podcasts/worldservice/globalnews/rss.xml",
+      "items": [
+        {
+          "title": "Deadly Russian drone hits Ukrainian railway station",
+          "link": "http://www.bbc.co.uk/programmes/p0pk9z25",
+          "date": "Thu, 29 Oct 2026 15:48:00 +0000"
+        },
+        {
+          "title": "Bolsonaro declares himself 'Brazil's leader'",
+          "link": "http://www.bbc.co.uk/programmes/p0pk6j6v",
+          "date": "Thu, 29 Oct 2026 05:29:00 +0000"
+        },
+        {
+          "title": "Dozens killed in train crash in Spain",
+          "link": "http://www.bbc.co.uk/programmes/p0pk3hmm",
+          "date": "Wed, 28 Oct 2026 16:28:00 +0000"
+        },
+        {
+          "title": "Israel election too close to call",
+          "link": "http://www.bbc.co.uk/programmes/p0pjz1m1",
+          "date": "Wed, 28 Oct 2026 05:23:00 +0000"
+        },
+        {
+          "title": "Huge turnout in Israeli election",
+          "link": "http://www.bbc.co.uk/programmes/p0pjwfwn",
+          "date": "Tue, 27 Oct 2026 16:30:00 +0000"
+        },
+        {
+          "title": "Israel holds first election since October 7th attacks",
+          "link": "http://www.bbc.co.uk/programmes/p0pjrnd4",
+          "date": "Tue, 27 Oct 2026 05:28:00 +0000"
+        },
+        {
+          "title": "What's next for China after Xi Jinping?",
+          "link": "http://www.bbc.co.uk/programmes/p0pjpv9t",
+          "date": "Tue, 27 Oct 2026 00:01:00 +0000"
+        },
+        {
+          "title": "Leaderless student movement wins Serbian election",
+          "link": "http://www.bbc.co.uk/programmes/p0pjpv1c",
+          "date": "Mon, 26 Oct 2026 16:31:00 +0000"
+        }
+      ]
+    },
     {
       "id": "cnn10",
       "name": "CNN 10",
@@ -54,6 +101,11 @@
       "url": "https://feeds.npr.org/1004/rss.xml",
       "items": [
         {
+          "title": "What killed 500-plus penguins? How scientists solved the mystery",
+          "link": "https://www.npr.org/2026/10/29/nx-s1-6020451/avian-flu-penguins-pathogen-antarctica-cholera",
+          "date": "Thu, 29 Oct 2026 16:03:26 -0400"
+        },
+        {
           "title": "US and Japan agree to establish a Japanese facility for joint missile production",
           "link": "https://www.npr.org/2026/10/29/g-s1-150666/us-and-japan-agree-to-establish-a-japanese-facility-for-joint-missile-production",
           "date": "Thu, 29 Oct 2026 11:58:27 -0400"
@@ -87,11 +139,6 @@
           "title": "Brazilian political drama unfolds as defeated Flavio Bolsonaro arrives in Miami",
           "link": "https://www.npr.org/2026/10/28/nx-s1-6020518/brazilian-political-drama-unfolds-as-defeated-flavio-bolsonaro-arrives-in-miami",
           "date": "Wed, 28 Oct 2026 17:46:27 -0400"
-        },
-        {
-          "title": "Israel's election too close to call. And, the Ebola outbreak reaches grim milestone",
-          "link": "https://www.npr.org/2026/10/28/g-s1-150313/up-first-newsletter-midterm-campaign-trump-israel-elections-federal-reserve-ebola-outbreak",
-          "date": "Wed, 28 Oct 2026 07:28:55 -0400"
         }
       ]
     },
@@ -100,6 +147,16 @@
       "name": "The Guardian · World",
       "url": "https://www.theguardian.com/world/rss",
       "items": [
+        {
+          "title": "Sinkholes, scarred land and scapegoats: the scourge of illegal gold mining in Johannesburg",
+          "link": "https://www.theguardian.com/business/2026/oct/30/sinkholes-scarred-land-scapegoats-illegal-gold-mining-johannesburg",
+          "date": "Fri, 30 Oct 2026 05:00:45 GMT"
+        },
+        {
+          "title": "Sudanese diaspora and human rights groups denounce UAE nominee for UN top job",
+          "link": "https://www.theguardian.com/world/2026/oct/30/sudanese-diaspora-human-rights-groups-denounce-uae-nominee-un-top-job",
+          "date": "Fri, 30 Oct 2026 05:00:45 GMT"
+        },
         {
           "title": "Egypt fines prominent editor Lina Attalah and shuts independent news outlet Mada Masr",
           "link": "https://www.theguardian.com/world/2026/oct/28/egypt-lina-attalah-mada-masr-press-freedom-clampdown",
@@ -116,29 +173,19 @@
           "date": "Mon, 26 Oct 2026 15:07:23 GMT"
         },
         {
-          "title": "US forces accused of ‘weaponising’ Somalia’s floods by trapping women and children in the path of El Niño",
-          "link": "https://www.theguardian.com/global-development/2026/oct/26/us-forces-accused-of-weaponising-somalia-flood-el-nino",
-          "date": "Mon, 26 Oct 2026 11:00:40 GMT"
+          "title": "Cuts like a knife: Canadian rocker Bryan Adams trolls Trump with new song",
+          "link": "https://www.theguardian.com/world/2026/oct/29/bryan-adams-donald-trump-song",
+          "date": "Thu, 29 Oct 2026 17:49:47 GMT"
         },
         {
-          "title": "Sudan paramilitary drone strikes cause mass power cuts in eastern states",
-          "link": "https://www.theguardian.com/world/2026/oct/26/sudan-paramilitary-drone-strikes-rapid-support-forces-power-cuts-eastern-states",
-          "date": "Mon, 26 Oct 2026 09:59:27 GMT"
+          "title": "Brazil’s victory for the planet and democracy: seven lessons from Lula’s win",
+          "link": "https://www.theguardian.com/world/2026/oct/29/brazil-victory-planet-democracy-lessons-lula-win",
+          "date": "Thu, 29 Oct 2026 17:46:38 GMT"
         },
         {
           "title": "Flávio Bolsonaro calls himself the ‘leader of Brazil’ after fleeing to Miami",
           "link": "https://www.theguardian.com/world/2026/oct/28/flavio-bolsonaro-miami-us-fleeing-brazilian-election-defeat",
           "date": "Wed, 28 Oct 2026 22:06:46 GMT"
-        },
-        {
-          "title": "EU backs away from offer to Canada to start ‘associate member’ talks",
-          "link": "https://www.theguardian.com/world/2026/oct/28/european-union-canada",
-          "date": "Wed, 28 Oct 2026 21:27:33 GMT"
-        },
-        {
-          "title": "US ambassador suggests Trump could blame Canada if midterms don’t go his way",
-          "link": "https://www.theguardian.com/world/2026/oct/28/canada-ambassador-republicans-midterms",
-          "date": "Wed, 28 Oct 2026 20:15:07 GMT"
         }
       ]
     }
