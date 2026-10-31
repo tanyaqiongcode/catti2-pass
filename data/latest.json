@@ -1,11 +1,26 @@
 {
-  "updated": "2026-10-30T06:07:35.652249+00:00",
+  "updated": "2026-10-31T06:02:01.339645+00:00",
   "feeds": [
     {
       "id": "bbc-globalnews",
       "name": "BBC Global News Podcast",
       "url": "https://downloads.bbc.co.uk/podcasts/worldservice/globalnews/rss.xml",
       "items": [
+        {
+          "title": "US approves sale of 500 Patriot missiles to Ukraine",
+          "link": "http://www.bbc.co.uk/programmes/p0pkkxk0",
+          "date": "Sat, 31 Oct 2026 05:01:00 +0000"
+        },
+        {
+          "title": "Residents leave devastated Russian-occupied Oleshky",
+          "link": "http://www.bbc.co.uk/programmes/p0pkhvpg",
+          "date": "Fri, 30 Oct 2026 16:51:00 +0000"
+        },
+        {
+          "title": "Venezuelan opposition leader criticises US oil deal",
+          "link": "http://www.bbc.co.uk/programmes/p0pkds06",
+          "date": "Fri, 30 Oct 2026 05:57:00 +0000"
+        },
         {
           "title": "Deadly Russian drone hits Ukrainian railway station",
           "link": "http://www.bbc.co.uk/programmes/p0pk9z25",
@@ -30,21 +45,6 @@
           "title": "Huge turnout in Israeli election",
           "link": "http://www.bbc.co.uk/programmes/p0pjwfwn",
           "date": "Tue, 27 Oct 2026 16:30:00 +0000"
-        },
-        {
-          "title": "Israel holds first election since October 7th attacks",
-          "link": "http://www.bbc.co.uk/programmes/p0pjrnd4",
-          "date": "Tue, 27 Oct 2026 05:28:00 +0000"
-        },
-        {
-          "title": "What's next for China after Xi Jinping?",
-          "link": "http://www.bbc.co.uk/programmes/p0pjpv9t",
-          "date": "Tue, 27 Oct 2026 00:01:00 +0000"
-        },
-        {
-          "title": "Leaderless student movement wins Serbian election",
-          "link": "http://www.bbc.co.uk/programmes/p0pjpv1c",
-          "date": "Mon, 26 Oct 2026 16:31:00 +0000"
         }
       ]
     },
@@ -53,6 +53,11 @@
       "name": "CNN 10",
       "url": "https://feeds.megaphone.fm/WMHY2232473209",
       "items": [
+        {
+          "title": "The Spooktacular History Behind Halloween, Explained",
+          "link": "",
+          "date": "Fri, 30 Oct 2026 16:08:00 -0000"
+        },
         {
           "title": "Spain Investigates Deadly Collision Between Two High-Speed Trains",
           "link": "",
@@ -87,11 +92,6 @@
           "title": "Why a Surprise Blood Clot Diagnosis Is Sidelining One of the Nfl’s Biggest Stars",
           "link": "",
           "date": "Wed, 21 Oct 2026 13:15:00 -0000"
-        },
-        {
-          "title": "A New Mars Mission Aims to Uncover the Mysteries of Its Moons",
-          "link": "",
-          "date": "Tue, 20 Oct 2026 12:42:00 -0000"
         }
       ]
     },
@@ -100,6 +100,21 @@
       "name": "NPR World",
       "url": "https://feeds.npr.org/1004/rss.xml",
       "items": [
+        {
+          "title": "Blockchain intelligence firms link North Korea to $6.3B hack on Binance",
+          "link": "https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance",
+          "date": "Fri, 30 Oct 2026 09:01:22 -0400"
+        },
+        {
+          "title": "Alaska's Senate race faces claims of spoiler candidate. And, Hegseth ousts Army general",
+          "link": "https://www.npr.org/2026/10/30/g-s1-150889/up-first-newsletter-midterm-elections-iran-war-veteran-affairs-loans",
+          "date": "Fri, 30 Oct 2026 07:20:26 -0400"
+        },
+        {
+          "title": "Israel is in a political deadlock. What comes next?",
+          "link": "https://www.npr.org/2026/10/30/g-s1-150761/israel-election-politics-deadlock-arabs",
+          "date": "Fri, 30 Oct 2026 05:00:00 -0400"
+        },
         {
           "title": "What killed 500-plus penguins? How scientists solved the mystery",
           "link": "https://www.npr.org/2026/10/29/nx-s1-6020451/avian-flu-penguins-pathogen-antarctica-cholera",
@@ -124,21 +139,6 @@
           "title": "GDP report to give insight before Election Day. And, Israel's election is deadlocked",
           "link": "https://www.npr.org/2026/10/29/g-s1-150614/up-first-newsletter-midterm-elections-gdp-inflation-israel-department-of-education-lawsuit",
           "date": "Thu, 29 Oct 2026 07:34:30 -0400"
-        },
-        {
-          "title": "How AI drones are influencing the course of the Ukraine war",
-          "link": "https://www.npr.org/2026/10/29/g-s1-147496/ukraine-ai-drones-war-russia",
-          "date": "Thu, 29 Oct 2026 05:02:00 -0400"
-        },
-        {
-          "title": "Spain reckons with 2nd deadly train crash of the year ahead of national election",
-          "link": "https://www.npr.org/2026/10/29/nx-s1-6021963/spain-train-crash-updates",
-          "date": "Thu, 29 Oct 2026 02:10:11 -0400"
-        },
-        {
-          "title": "Brazilian political drama unfolds as defeated Flavio Bolsonaro arrives in Miami",
-          "link": "https://www.npr.org/2026/10/28/nx-s1-6020518/brazilian-political-drama-unfolds-as-defeated-flavio-bolsonaro-arrives-in-miami",
-          "date": "Wed, 28 Oct 2026 17:46:27 -0400"
         }
       ]
     },
@@ -173,19 +173,19 @@
           "date": "Mon, 26 Oct 2026 15:07:23 GMT"
         },
         {
-          "title": "Cuts like a knife: Canadian rocker Bryan Adams trolls Trump with new song",
-          "link": "https://www.theguardian.com/world/2026/oct/29/bryan-adams-donald-trump-song",
-          "date": "Thu, 29 Oct 2026 17:49:47 GMT"
+          "title": "Canada and EU announce new alliance open to like-minded countries",
+          "link": "https://www.theguardian.com/world/2026/oct/30/canada-european-union-alliance",
+          "date": "Fri, 30 Oct 2026 19:42:15 GMT"
         },
         {
-          "title": "Brazil’s victory for the planet and democracy: seven lessons from Lula’s win",
-          "link": "https://www.theguardian.com/world/2026/oct/29/brazil-victory-planet-democracy-lessons-lula-win",
-          "date": "Thu, 29 Oct 2026 17:46:38 GMT"
+          "title": "‘Amateur morons’: Flávio Bolsonaro’s short-lived ‘president-elect’ claim met with mockery",
+          "link": "https://www.theguardian.com/world/2026/oct/30/flavio-bolsonaros-president-elect-claim-mockery-brazil",
+          "date": "Fri, 30 Oct 2026 14:08:41 GMT"
         },
         {
-          "title": "Flávio Bolsonaro calls himself the ‘leader of Brazil’ after fleeing to Miami",
-          "link": "https://www.theguardian.com/world/2026/oct/28/flavio-bolsonaro-miami-us-fleeing-brazilian-election-defeat",
-          "date": "Wed, 28 Oct 2026 22:06:46 GMT"
+          "title": "Severe rainfall and flood warnings issued for central Greece and western Turkey",
+          "link": "https://www.theguardian.com/environment/2026/oct/30/severe-rainfall-flood-warnings-greece-turkey",
+          "date": "Fri, 30 Oct 2026 10:07:16 GMT"
         }
       ]
     }
