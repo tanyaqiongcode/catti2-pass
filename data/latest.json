@@ -1,53 +1,6 @@
 {
-  "updated": "2026-10-31T06:02:01.339645+00:00",
+  "updated": "2026-11-01T06:32:12.721249+00:00",
   "feeds": [
-    {
-      "id": "bbc-globalnews",
-      "name": "BBC Global News Podcast",
-      "url": "https://downloads.bbc.co.uk/podcasts/worldservice/globalnews/rss.xml",
-      "items": [
-        {
-          "title": "US approves sale of 500 Patriot missiles to Ukraine",
-          "link": "http://www.bbc.co.uk/programmes/p0pkkxk0",
-          "date": "Sat, 31 Oct 2026 05:01:00 +0000"
-        },
-        {
-          "title": "Residents leave devastated Russian-occupied Oleshky",
-          "link": "http://www.bbc.co.uk/programmes/p0pkhvpg",
-          "date": "Fri, 30 Oct 2026 16:51:00 +0000"
-        },
-        {
-          "title": "Venezuelan opposition leader criticises US oil deal",
-          "link": "http://www.bbc.co.uk/programmes/p0pkds06",
-          "date": "Fri, 30 Oct 2026 05:57:00 +0000"
-        },
-        {
-          "title": "Deadly Russian drone hits Ukrainian railway station",
-          "link": "http://www.bbc.co.uk/programmes/p0pk9z25",
-          "date": "Thu, 29 Oct 2026 15:48:00 +0000"
-        },
-        {
-          "title": "Bolsonaro declares himself 'Brazil's leader'",
-          "link": "http://www.bbc.co.uk/programmes/p0pk6j6v",
-          "date": "Thu, 29 Oct 2026 05:29:00 +0000"
-        },
-        {
-          "title": "Dozens killed in train crash in Spain",
-          "link": "http://www.bbc.co.uk/programmes/p0pk3hmm",
-          "date": "Wed, 28 Oct 2026 16:28:00 +0000"
-        },
-        {
-          "title": "Israel election too close to call",
-          "link": "http://www.bbc.co.uk/programmes/p0pjz1m1",
-          "date": "Wed, 28 Oct 2026 05:23:00 +0000"
-        },
-        {
-          "title": "Huge turnout in Israeli election",
-          "link": "http://www.bbc.co.uk/programmes/p0pjwfwn",
-          "date": "Tue, 27 Oct 2026 16:30:00 +0000"
-        }
-      ]
-    },
     {
       "id": "cnn10",
       "name": "CNN 10",
@@ -101,6 +54,31 @@
       "url": "https://feeds.npr.org/1004/rss.xml",
       "items": [
         {
+          "title": "Secretary Rubio has a tough time getting officials at G20 on the same page",
+          "link": "https://www.npr.org/2026/10/31/nx-s1-6022223/secretary-rubio-has-a-tough-time-getting-officials-at-g20-on-the-same-page",
+          "date": "Sat, 31 Oct 2026 17:14:34 -0400"
+        },
+        {
+          "title": "A new political era in the Southern Philippines",
+          "link": "https://www.npr.org/2026/10/31/nx-s1-6020639/a-new-political-era-in-the-southern-philippines",
+          "date": "Sat, 31 Oct 2026 17:14:32 -0400"
+        },
+        {
+          "title": "France seethes again as youth-led protests sweep Europe",
+          "link": "https://www.npr.org/2026/10/31/g-s1-151121/france-seethes-again-as-youth-led-protests-sweep-europe",
+          "date": "Sat, 31 Oct 2026 15:30:19 -0400"
+        },
+        {
+          "title": "Key takeaways from this week's political meeting in Beijing",
+          "link": "https://www.npr.org/2026/10/31/nx-s1-6024695/political-meeting-beijing-takeaways",
+          "date": "Sat, 31 Oct 2026 14:42:33 -0400"
+        },
+        {
+          "title": "Drone photo award winners: Far-out landscapes. Ship recycling. Rugs, rugs rugs!",
+          "link": "https://www.npr.org/2026/10/31/g-s1-150698/drone-photo-award-winners",
+          "date": "Sat, 31 Oct 2026 07:56:10 -0400"
+        },
+        {
           "title": "Blockchain intelligence firms link North Korea to $6.3B hack on Binance",
           "link": "https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance",
           "date": "Fri, 30 Oct 2026 09:01:22 -0400"
@@ -114,31 +92,6 @@
           "title": "Israel is in a political deadlock. What comes next?",
           "link": "https://www.npr.org/2026/10/30/g-s1-150761/israel-election-politics-deadlock-arabs",
           "date": "Fri, 30 Oct 2026 05:00:00 -0400"
-        },
-        {
-          "title": "What killed 500-plus penguins? How scientists solved the mystery",
-          "link": "https://www.npr.org/2026/10/29/nx-s1-6020451/avian-flu-penguins-pathogen-antarctica-cholera",
-          "date": "Thu, 29 Oct 2026 16:03:26 -0400"
-        },
-        {
-          "title": "US and Japan agree to establish a Japanese facility for joint missile production",
-          "link": "https://www.npr.org/2026/10/29/g-s1-150666/us-and-japan-agree-to-establish-a-japanese-facility-for-joint-missile-production",
-          "date": "Thu, 29 Oct 2026 11:58:27 -0400"
-        },
-        {
-          "title": "China elevates a military general to the Politburo and seeks to strengthen party discipline",
-          "link": "https://www.npr.org/2026/10/29/g-s1-150645/china-elevates-a-military-general-to-the-politburo-and-seeks-to-strengthen-party-discipline",
-          "date": "Thu, 29 Oct 2026 11:53:46 -0400"
-        },
-        {
-          "title": "Greetings from Baghdad, where Agatha Christie's old home presents its own mystery",
-          "link": "https://www.npr.org/2026/10/29/g-s1-150319/agatha-christie-baghdad-home",
-          "date": "Thu, 29 Oct 2026 10:52:11 -0400"
-        },
-        {
-          "title": "GDP report to give insight before Election Day. And, Israel's election is deadlocked",
-          "link": "https://www.npr.org/2026/10/29/g-s1-150614/up-first-newsletter-midterm-elections-gdp-inflation-israel-department-of-education-lawsuit",
-          "date": "Thu, 29 Oct 2026 07:34:30 -0400"
         }
       ]
     },
