@@ -1,11 +1,16 @@
 {
-  "updated": "2026-11-02T06:32:40.165934+00:00",
+  "updated": "2026-11-03T07:03:50.419314+00:00",
   "feeds": [
     {
       "id": "cnn10",
       "name": "CNN 10",
       "url": "https://feeds.megaphone.fm/WMHY2232473209",
       "items": [
+        {
+          "title": "FBI: North Korea Behind World’s Largest Cryptocurrency Heist",
+          "link": "",
+          "date": "Mon, 02 Nov 2026 19:22:00 -0000"
+        },
         {
           "title": "The Spooktacular History Behind Halloween, Explained",
           "link": "",
@@ -40,11 +45,6 @@
           "title": "Why a Chemical Explosion Evacuated Hundreds in Ohio",
           "link": "",
           "date": "Thu, 22 Oct 2026 12:22:00 -0000"
-        },
-        {
-          "title": "Why a Surprise Blood Clot Diagnosis Is Sidelining One of the Nfl’s Biggest Stars",
-          "link": "",
-          "date": "Wed, 21 Oct 2026 13:15:00 -0000"
         }
       ]
     },
@@ -53,6 +53,21 @@
       "name": "NPR World",
       "url": "https://feeds.npr.org/1004/rss.xml",
       "items": [
+        {
+          "title": "Haley Stevens backs Mike Rogers. And, Gulf states brace for potential attack on Iran",
+          "link": "https://www.npr.org/2026/11/02/g-s1-151215/up-first-newsletter-michigan-senate-iran-war-supreme-court-colorado-catholic-church",
+          "date": "Mon, 02 Nov 2026 07:19:54 -0500"
+        },
+        {
+          "title": "Hundreds evacuate city during temporary ceasefire between Russia and Ukraine",
+          "link": "https://www.npr.org/2026/11/02/nx-s1-6022261/hundreds-evacuate-city-during-temporary-ceasefire-between-russia-and-ukraine",
+          "date": "Mon, 02 Nov 2026 04:42:11 -0500"
+        },
+        {
+          "title": "UN's peacekeeping mission in disputed Western Sahara ends after 35 years",
+          "link": "https://www.npr.org/2026/11/02/nx-s1-6026050/uns-peacekeeping-western-sahara-ends",
+          "date": "Mon, 02 Nov 2026 02:19:35 -0500"
+        },
         {
           "title": "This legendary board game could take decades to complete",
           "link": "https://www.npr.org/2026/11/01/nx-s1-6025438/this-legendary-board-game-could-take-decades-to-complete",
@@ -77,21 +92,6 @@
           "title": "A new political era in the Southern Philippines",
           "link": "https://www.npr.org/2026/10/31/nx-s1-6020639/a-new-political-era-in-the-southern-philippines",
           "date": "Sat, 31 Oct 2026 17:14:32 -0400"
-        },
-        {
-          "title": "France seethes again as youth-led protests sweep Europe",
-          "link": "https://www.npr.org/2026/10/31/g-s1-151121/france-seethes-again-as-youth-led-protests-sweep-europe",
-          "date": "Sat, 31 Oct 2026 15:30:19 -0400"
-        },
-        {
-          "title": "Key takeaways from this week's political meeting in Beijing",
-          "link": "https://www.npr.org/2026/10/31/nx-s1-6024695/political-meeting-beijing-takeaways",
-          "date": "Sat, 31 Oct 2026 14:42:33 -0400"
-        },
-        {
-          "title": "Drone photo award winners: Far-out landscapes. Ship recycling. Rugs, rugs rugs!",
-          "link": "https://www.npr.org/2026/10/31/g-s1-150698/drone-photo-award-winners",
-          "date": "Sat, 31 Oct 2026 07:56:10 -0400"
         }
       ]
     },
@@ -126,6 +126,11 @@
           "date": "Mon, 26 Oct 2026 15:07:23 GMT"
         },
         {
+          "title": "Fossilised red blood cells found in 115m-year-old dinosaur’s bone, say scientists",
+          "link": "https://www.theguardian.com/science/2026/nov/02/fossilised-red-blood-cells-aratasaurus-dinosaurs-bone",
+          "date": "Mon, 02 Nov 2026 20:00:27 GMT"
+        },
+        {
           "title": "UK was ‘vehement’ slavery reparations should not be on Commonwealth summit agenda",
           "link": "https://www.theguardian.com/world/2026/nov/01/uk-was-vehement-slavery-reparations-should-not-be-on-commonwealth-summit-agenda",
           "date": "Sun, 01 Nov 2026 22:26:11 GMT"
@@ -134,11 +139,6 @@
           "title": "Canada and EU announce new alliance open to like-minded countries",
           "link": "https://www.theguardian.com/world/2026/oct/30/canada-european-union-alliance",
           "date": "Fri, 30 Oct 2026 19:42:15 GMT"
-        },
-        {
-          "title": "‘Amateur morons’: Flávio Bolsonaro’s short-lived ‘president-elect’ claim met with mockery",
-          "link": "https://www.theguardian.com/world/2026/oct/30/flavio-bolsonaros-president-elect-claim-mockery-brazil",
-          "date": "Fri, 30 Oct 2026 14:08:41 GMT"
         }
       ]
     }
