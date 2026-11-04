@@ -1,11 +1,63 @@
 {
-  "updated": "2026-11-03T07:03:50.419314+00:00",
+  "updated": "2026-11-04T06:47:01.968046+00:00",
   "feeds": [
+    {
+      "id": "bbc-globalnews",
+      "name": "BBC Global News Podcast",
+      "url": "https://downloads.bbc.co.uk/podcasts/worldservice/globalnews/rss.xml",
+      "items": [
+        {
+          "title": "Democrats projected to take control of US Congress",
+          "link": "http://www.bbc.co.uk/programmes/p0pl6m46",
+          "date": "Wed, 04 Nov 2026 05:51:00 +0000"
+        },
+        {
+          "title": "Americans vote in pivotal midterm elections",
+          "link": "http://www.bbc.co.uk/programmes/p0pl435f",
+          "date": "Tue, 03 Nov 2026 16:45:00 +0000"
+        },
+        {
+          "title": "Ukraine accuses Russia of hitting school used as aid centre",
+          "link": "http://www.bbc.co.uk/programmes/p0pkz9jt",
+          "date": "Tue, 03 Nov 2026 05:32:00 +0000"
+        },
+        {
+          "title": "Ukraine and Russia hit by fake emergency alerts",
+          "link": "http://www.bbc.co.uk/programmes/p0pkww1f",
+          "date": "Mon, 02 Nov 2026 16:31:00 +0000"
+        },
+        {
+          "title": "Trump celebrates shock endorsement ahead of US midterms",
+          "link": "http://www.bbc.co.uk/programmes/p0pksmf2",
+          "date": "Mon, 02 Nov 2026 05:46:00 +0000"
+        },
+        {
+          "title": "Violent protests in France for the third weekend in a row",
+          "link": "http://www.bbc.co.uk/programmes/p0pkpg0p",
+          "date": "Sun, 01 Nov 2026 04:47:00 +0000"
+        },
+        {
+          "title": "The Happy Pod: Personalised cancer vaccine shows promise in major trial",
+          "link": "http://www.bbc.co.uk/programmes/p0pkj52k",
+          "date": "Sat, 31 Oct 2026 12:00:00 +0000"
+        },
+        {
+          "title": "US approves sale of 500 Patriot missiles to Ukraine",
+          "link": "http://www.bbc.co.uk/programmes/p0pkkxk0",
+          "date": "Sat, 31 Oct 2026 05:01:00 +0000"
+        }
+      ]
+    },
     {
       "id": "cnn10",
       "name": "CNN 10",
       "url": "https://feeds.megaphone.fm/WMHY2232473209",
       "items": [
+        {
+          "title": "After 1,711 Days Apart, Ukrainian Evacuees Reunite Thanks to Ceasefire Deal",
+          "link": "",
+          "date": "Tue, 03 Nov 2026 12:55:00 -0000"
+        },
         {
           "title": "FBI: North Korea Behind World’s Largest Cryptocurrency Heist",
           "link": "",
@@ -40,11 +92,6 @@
           "title": "How This Burger Joint Is Surviving Record High Beef Prices",
           "link": "",
           "date": "Fri, 23 Oct 2026 15:57:00 -0000"
-        },
-        {
-          "title": "Why a Chemical Explosion Evacuated Hundreds in Ohio",
-          "link": "",
-          "date": "Thu, 22 Oct 2026 12:22:00 -0000"
         }
       ]
     },
@@ -53,6 +100,31 @@
       "name": "NPR World",
       "url": "https://feeds.npr.org/1004/rss.xml",
       "items": [
+        {
+          "title": "Japan faces diplomatic dilemma amid joint pressure from nuclear neighbors",
+          "link": "https://www.npr.org/2026/11/03/nx-s1-6012016/japan-faces-diplomatic-dilemma-amid-joint-pressure-from-nuclear-neighbors",
+          "date": "Tue, 03 Nov 2026 17:25:15 -0500"
+        },
+        {
+          "title": "For Ukraine's Kherson region, a short ceasefire meant a momentary return to normal life",
+          "link": "https://www.npr.org/2026/11/03/g-s1-151238/ukraine-russia-ceasefire-oleshky-kherson",
+          "date": "Tue, 03 Nov 2026 10:54:39 -0500"
+        },
+        {
+          "title": "Indian navy rescues 20 crew from Iranian fishing boat hijacked off Somalia",
+          "link": "https://www.npr.org/2026/11/03/g-s1-151468/indian-navy-rescues-20-crew-from-iranian-fishing-boat-hijacked-off-somalia",
+          "date": "Tue, 03 Nov 2026 09:13:58 -0500"
+        },
+        {
+          "title": "Control of Congress is at stake today. And, judge to consider motion in Clancy case",
+          "link": "https://www.npr.org/2026/11/03/g-s1-151445/up-first-newsletter-midterms-election-day-iran-war-lindsay-clancy",
+          "date": "Tue, 03 Nov 2026 06:43:49 -0500"
+        },
+        {
+          "title": "Death toll hits 29 after Russian strike on Ukrainian aid site, with 48 still missing",
+          "link": "https://www.npr.org/2026/11/03/g-s1-151439/russia-ukraine-war",
+          "date": "Tue, 03 Nov 2026 06:01:14 -0500"
+        },
         {
           "title": "Haley Stevens backs Mike Rogers. And, Gulf states brace for potential attack on Iran",
           "link": "https://www.npr.org/2026/11/02/g-s1-151215/up-first-newsletter-michigan-senate-iran-war-supreme-court-colorado-catholic-church",
@@ -67,31 +139,6 @@
           "title": "UN's peacekeeping mission in disputed Western Sahara ends after 35 years",
           "link": "https://www.npr.org/2026/11/02/nx-s1-6026050/uns-peacekeeping-western-sahara-ends",
           "date": "Mon, 02 Nov 2026 02:19:35 -0500"
-        },
-        {
-          "title": "This legendary board game could take decades to complete",
-          "link": "https://www.npr.org/2026/11/01/nx-s1-6025438/this-legendary-board-game-could-take-decades-to-complete",
-          "date": "Sun, 01 Nov 2026 17:30:00 -0500"
-        },
-        {
-          "title": "Gulf region on edge as Qatar leads talks with Iran to stave off new U.S. attacks",
-          "link": "https://www.npr.org/2026/11/01/nx-s1-6023237/gulf-leaders-meet-in-qatar-in-effort-to-stave-off-new-escalation-in-u-s-and-iran-war",
-          "date": "Sun, 01 Nov 2026 17:19:13 -0500"
-        },
-        {
-          "title": "They signed up for a lifetime at sea on an endless cruise. High gas prices intervened",
-          "link": "https://www.npr.org/2026/11/01/nx-s1-6022214/they-signed-up-for-a-lifetime-at-sea-on-an-endless-cruise-high-gas-prices-intervened",
-          "date": "Sun, 01 Nov 2026 08:15:28 -0500"
-        },
-        {
-          "title": "Secretary Rubio has a tough time getting officials at G20 on the same page",
-          "link": "https://www.npr.org/2026/10/31/nx-s1-6022223/secretary-rubio-has-a-tough-time-getting-officials-at-g20-on-the-same-page",
-          "date": "Sat, 31 Oct 2026 17:14:34 -0400"
-        },
-        {
-          "title": "A new political era in the Southern Philippines",
-          "link": "https://www.npr.org/2026/10/31/nx-s1-6020639/a-new-political-era-in-the-southern-philippines",
-          "date": "Sat, 31 Oct 2026 17:14:32 -0400"
         }
       ]
     },
@@ -100,6 +147,11 @@
       "name": "The Guardian · World",
       "url": "https://www.theguardian.com/world/rss",
       "items": [
+        {
+          "title": "ANC faces anger over poor services as South Africans vote in local elections",
+          "link": "https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts",
+          "date": "Wed, 04 Nov 2026 04:00:23 GMT"
+        },
         {
           "title": "Sinkholes, scarred land and scapegoats: the scourge of illegal gold mining in Johannesburg",
           "link": "https://www.theguardian.com/business/2026/oct/30/sinkholes-scarred-land-scapegoats-illegal-gold-mining-johannesburg",
@@ -121,24 +173,19 @@
           "date": "Wed, 28 Oct 2026 09:37:49 GMT"
         },
         {
-          "title": "UK sanctions Sudanese military leaders implicated in El Fasher ‘campaign of rape’",
-          "link": "https://www.theguardian.com/global-development/2026/oct/26/uk-sanctions-sudanese-military-leaders-implicated-in-el-fasher-campaign-of",
-          "date": "Mon, 26 Oct 2026 15:07:23 GMT"
+          "title": "One dead and another missing in suspected grizzly bear attack in Canada",
+          "link": "https://www.theguardian.com/world/2026/nov/03/grizzly-bear-attack-canada",
+          "date": "Tue, 03 Nov 2026 22:08:50 GMT"
+        },
+        {
+          "title": "Brazil publishes first global ‘roadmap’ for phasing out fossil fuels",
+          "link": "https://www.theguardian.com/environment/2026/nov/03/brazil-first-global-roadmap-phasing-out-fossil-fuels",
+          "date": "Tue, 03 Nov 2026 13:00:07 GMT"
         },
         {
           "title": "Fossilised red blood cells found in 115m-year-old dinosaur’s bone, say scientists",
           "link": "https://www.theguardian.com/science/2026/nov/02/fossilised-red-blood-cells-aratasaurus-dinosaurs-bone",
           "date": "Mon, 02 Nov 2026 20:00:27 GMT"
-        },
-        {
-          "title": "UK was ‘vehement’ slavery reparations should not be on Commonwealth summit agenda",
-          "link": "https://www.theguardian.com/world/2026/nov/01/uk-was-vehement-slavery-reparations-should-not-be-on-commonwealth-summit-agenda",
-          "date": "Sun, 01 Nov 2026 22:26:11 GMT"
-        },
-        {
-          "title": "Canada and EU announce new alliance open to like-minded countries",
-          "link": "https://www.theguardian.com/world/2026/oct/30/canada-european-union-alliance",
-          "date": "Fri, 30 Oct 2026 19:42:15 GMT"
         }
       ]
     }
