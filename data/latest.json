@@ -1,11 +1,21 @@
 {
-  "updated": "2026-11-04T06:47:01.968046+00:00",
+  "updated": "2026-11-05T07:06:58.823091+00:00",
   "feeds": [
     {
       "id": "bbc-globalnews",
       "name": "BBC Global News Podcast",
       "url": "https://downloads.bbc.co.uk/podcasts/worldservice/globalnews/rss.xml",
       "items": [
+        {
+          "title": "Trump blames Iran war for midterm defeat",
+          "link": "http://www.bbc.co.uk/programmes/p0plcn0g",
+          "date": "Thu, 05 Nov 2026 05:22:00 +0000"
+        },
+        {
+          "title": "Democrats storm to success in US midterm elections",
+          "link": "http://www.bbc.co.uk/programmes/p0pl9nf9",
+          "date": "Wed, 04 Nov 2026 16:36:00 +0000"
+        },
         {
           "title": "Democrats projected to take control of US Congress",
           "link": "http://www.bbc.co.uk/programmes/p0pl6m46",
@@ -35,16 +45,6 @@
           "title": "Violent protests in France for the third weekend in a row",
           "link": "http://www.bbc.co.uk/programmes/p0pkpg0p",
           "date": "Sun, 01 Nov 2026 04:47:00 +0000"
-        },
-        {
-          "title": "The Happy Pod: Personalised cancer vaccine shows promise in major trial",
-          "link": "http://www.bbc.co.uk/programmes/p0pkj52k",
-          "date": "Sat, 31 Oct 2026 12:00:00 +0000"
-        },
-        {
-          "title": "US approves sale of 500 Patriot missiles to Ukraine",
-          "link": "http://www.bbc.co.uk/programmes/p0pkkxk0",
-          "date": "Sat, 31 Oct 2026 05:01:00 +0000"
         }
       ]
     },
@@ -53,6 +53,11 @@
       "name": "CNN 10",
       "url": "https://feeds.megaphone.fm/WMHY2232473209",
       "items": [
+        {
+          "title": "These Drones Used to Track Sharks. Now They’re Searching for Koalas",
+          "link": "",
+          "date": "Wed, 04 Nov 2026 13:53:00 -0000"
+        },
         {
           "title": "After 1,711 Days Apart, Ukrainian Evacuees Reunite Thanks to Ceasefire Deal",
           "link": "",
@@ -87,11 +92,6 @@
           "title": "These Tiny Computer Chips Could Help Data Centers Waste Less Power",
           "link": "",
           "date": "Mon, 26 Oct 2026 14:06:00 -0000"
-        },
-        {
-          "title": "How This Burger Joint Is Surviving Record High Beef Prices",
-          "link": "",
-          "date": "Fri, 23 Oct 2026 15:57:00 -0000"
         }
       ]
     },
@@ -100,6 +100,31 @@
       "name": "NPR World",
       "url": "https://feeds.npr.org/1004/rss.xml",
       "items": [
+        {
+          "title": "Bob Dylan comes knockin' on pope's door as Leo welcomes legend to Vatican",
+          "link": "https://www.npr.org/2026/11/05/g-s1-152035/vatican-pope-bob-dylan",
+          "date": "Thu, 05 Nov 2026 02:02:12 -0500"
+        },
+        {
+          "title": "Hong Kong activist Joshua Wong sentenced to 10 years in prison",
+          "link": "https://www.npr.org/2026/11/05/g-s1-152032/hong-kong-activist-wong-sentenced",
+          "date": "Thu, 05 Nov 2026 00:29:56 -0500"
+        },
+        {
+          "title": "Abdul El-Sayed welcomes Trump's plan to cut Israel aid, calls for end to arms sales",
+          "link": "https://www.npr.org/2026/11/04/nx-s1-6028702/abdul-el-sayed-michigan-senate-israel-aid",
+          "date": "Wed, 04 Nov 2026 08:38:09 -0500"
+        },
+        {
+          "title": "The world is reacting to the Democrats' sweeping midterm elections victory",
+          "link": "https://www.npr.org/2026/11/04/nx-s1-6028664/world-reacts-midterm-elections",
+          "date": "Wed, 04 Nov 2026 07:34:35 -0500"
+        },
+        {
+          "title": "Democrats seize full control of Congress. And, which candidates made history last night",
+          "link": "https://www.npr.org/2026/11/04/g-s1-151745/up-first-newsletter-midterms-democrats-congress-control",
+          "date": "Wed, 04 Nov 2026 07:18:39 -0500"
+        },
         {
           "title": "Japan faces diplomatic dilemma amid joint pressure from nuclear neighbors",
           "link": "https://www.npr.org/2026/11/03/nx-s1-6012016/japan-faces-diplomatic-dilemma-amid-joint-pressure-from-nuclear-neighbors",
@@ -114,31 +139,6 @@
           "title": "Indian navy rescues 20 crew from Iranian fishing boat hijacked off Somalia",
           "link": "https://www.npr.org/2026/11/03/g-s1-151468/indian-navy-rescues-20-crew-from-iranian-fishing-boat-hijacked-off-somalia",
           "date": "Tue, 03 Nov 2026 09:13:58 -0500"
-        },
-        {
-          "title": "Control of Congress is at stake today. And, judge to consider motion in Clancy case",
-          "link": "https://www.npr.org/2026/11/03/g-s1-151445/up-first-newsletter-midterms-election-day-iran-war-lindsay-clancy",
-          "date": "Tue, 03 Nov 2026 06:43:49 -0500"
-        },
-        {
-          "title": "Death toll hits 29 after Russian strike on Ukrainian aid site, with 48 still missing",
-          "link": "https://www.npr.org/2026/11/03/g-s1-151439/russia-ukraine-war",
-          "date": "Tue, 03 Nov 2026 06:01:14 -0500"
-        },
-        {
-          "title": "Haley Stevens backs Mike Rogers. And, Gulf states brace for potential attack on Iran",
-          "link": "https://www.npr.org/2026/11/02/g-s1-151215/up-first-newsletter-michigan-senate-iran-war-supreme-court-colorado-catholic-church",
-          "date": "Mon, 02 Nov 2026 07:19:54 -0500"
-        },
-        {
-          "title": "Hundreds evacuate city during temporary ceasefire between Russia and Ukraine",
-          "link": "https://www.npr.org/2026/11/02/nx-s1-6022261/hundreds-evacuate-city-during-temporary-ceasefire-between-russia-and-ukraine",
-          "date": "Mon, 02 Nov 2026 04:42:11 -0500"
-        },
-        {
-          "title": "UN's peacekeeping mission in disputed Western Sahara ends after 35 years",
-          "link": "https://www.npr.org/2026/11/02/nx-s1-6026050/uns-peacekeeping-western-sahara-ends",
-          "date": "Mon, 02 Nov 2026 02:19:35 -0500"
         }
       ]
     },
@@ -148,9 +148,14 @@
       "url": "https://www.theguardian.com/world/rss",
       "items": [
         {
+          "title": "British healthcare worker with Ebola evacuated from DR Congo to UK",
+          "link": "https://www.theguardian.com/world/2026/nov/04/british-healthcare-worker-ebola-evacuated-drc-to-uk-document-shows",
+          "date": "Wed, 04 Nov 2026 18:18:37 GMT"
+        },
+        {
           "title": "ANC faces anger over poor services as South Africans vote in local elections",
           "link": "https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts",
-          "date": "Wed, 04 Nov 2026 04:00:23 GMT"
+          "date": "Wed, 04 Nov 2026 14:50:47 GMT"
         },
         {
           "title": "Sinkholes, scarred land and scapegoats: the scourge of illegal gold mining in Johannesburg",
@@ -168,9 +173,9 @@
           "date": "Wed, 28 Oct 2026 14:16:24 GMT"
         },
         {
-          "title": "Africa’s ‘unprecedented’ Ebola outbreak could reach UK, says top health official",
-          "link": "https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official",
-          "date": "Wed, 28 Oct 2026 09:37:49 GMT"
+          "title": "Mother and daughter killed in grizzly bear attack, Canadian authorities confirm",
+          "link": "https://www.theguardian.com/world/2026/nov/04/canada-bear-attack-mother-daughter-killed",
+          "date": "Wed, 04 Nov 2026 19:42:47 GMT"
         },
         {
           "title": "One dead and another missing in suspected grizzly bear attack in Canada",
@@ -181,11 +186,6 @@
           "title": "Brazil publishes first global ‘roadmap’ for phasing out fossil fuels",
           "link": "https://www.theguardian.com/environment/2026/nov/03/brazil-first-global-roadmap-phasing-out-fossil-fuels",
           "date": "Tue, 03 Nov 2026 13:00:07 GMT"
-        },
-        {
-          "title": "Fossilised red blood cells found in 115m-year-old dinosaur’s bone, say scientists",
-          "link": "https://www.theguardian.com/science/2026/nov/02/fossilised-red-blood-cells-aratasaurus-dinosaurs-bone",
-          "date": "Mon, 02 Nov 2026 20:00:27 GMT"
         }
       ]
     }
