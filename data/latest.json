@@ -1,58 +1,16 @@
 {
-  "updated": "2026-11-05T07:06:58.823091+00:00",
+  "updated": "2026-11-06T07:06:22.637818+00:00",
   "feeds": [
-    {
-      "id": "bbc-globalnews",
-      "name": "BBC Global News Podcast",
-      "url": "https://downloads.bbc.co.uk/podcasts/worldservice/globalnews/rss.xml",
-      "items": [
-        {
-          "title": "Trump blames Iran war for midterm defeat",
-          "link": "http://www.bbc.co.uk/programmes/p0plcn0g",
-          "date": "Thu, 05 Nov 2026 05:22:00 +0000"
-        },
-        {
-          "title": "Democrats storm to success in US midterm elections",
-          "link": "http://www.bbc.co.uk/programmes/p0pl9nf9",
-          "date": "Wed, 04 Nov 2026 16:36:00 +0000"
-        },
-        {
-          "title": "Democrats projected to take control of US Congress",
-          "link": "http://www.bbc.co.uk/programmes/p0pl6m46",
-          "date": "Wed, 04 Nov 2026 05:51:00 +0000"
-        },
-        {
-          "title": "Americans vote in pivotal midterm elections",
-          "link": "http://www.bbc.co.uk/programmes/p0pl435f",
-          "date": "Tue, 03 Nov 2026 16:45:00 +0000"
-        },
-        {
-          "title": "Ukraine accuses Russia of hitting school used as aid centre",
-          "link": "http://www.bbc.co.uk/programmes/p0pkz9jt",
-          "date": "Tue, 03 Nov 2026 05:32:00 +0000"
-        },
-        {
-          "title": "Ukraine and Russia hit by fake emergency alerts",
-          "link": "http://www.bbc.co.uk/programmes/p0pkww1f",
-          "date": "Mon, 02 Nov 2026 16:31:00 +0000"
-        },
-        {
-          "title": "Trump celebrates shock endorsement ahead of US midterms",
-          "link": "http://www.bbc.co.uk/programmes/p0pksmf2",
-          "date": "Mon, 02 Nov 2026 05:46:00 +0000"
-        },
-        {
-          "title": "Violent protests in France for the third weekend in a row",
-          "link": "http://www.bbc.co.uk/programmes/p0pkpg0p",
-          "date": "Sun, 01 Nov 2026 04:47:00 +0000"
-        }
-      ]
-    },
     {
       "id": "cnn10",
       "name": "CNN 10",
       "url": "https://feeds.megaphone.fm/WMHY2232473209",
       "items": [
+        {
+          "title": "The Historic Firsts of the 2026 Midterm Election",
+          "link": "",
+          "date": "Thu, 05 Nov 2026 16:18:00 -0000"
+        },
         {
           "title": "These Drones Used to Track Sharks. Now They’re Searching for Koalas",
           "link": "",
@@ -87,11 +45,6 @@
           "title": "America Welcomes Its 64th National Park in Arizona",
           "link": "",
           "date": "Tue, 27 Oct 2026 14:37:00 -0000"
-        },
-        {
-          "title": "These Tiny Computer Chips Could Help Data Centers Waste Less Power",
-          "link": "",
-          "date": "Mon, 26 Oct 2026 14:06:00 -0000"
         }
       ]
     },
@@ -101,12 +54,32 @@
       "url": "https://feeds.npr.org/1004/rss.xml",
       "items": [
         {
+          "title": "Paraguay's president is impeached minutes after resigning following a bank collapse",
+          "link": "https://www.npr.org/2026/11/05/nx-s1-6030842/paraguay-president-impeached-bank-collapse",
+          "date": "Thu, 05 Nov 2026 13:30:16 -0500"
+        },
+        {
+          "title": "Russell Brand is convicted of rape, and judge says he'll get a prison term",
+          "link": "https://www.npr.org/2026/11/05/nx-s1-6030720/russell-brand-rape-sexual-assault-prison",
+          "date": "Thu, 05 Nov 2026 11:15:02 -0500"
+        },
+        {
+          "title": "What's next for Democrats after the midterms. And, a look at the outstanding races",
+          "link": "https://www.npr.org/2026/11/05/g-s1-152046/up-first-newsletter-democrats-congress-control-house-senate-trump-reaction",
+          "date": "Thu, 05 Nov 2026 07:02:24 -0500"
+        },
+        {
+          "title": "Three ways Democrats could reshape U.S. foreign policy after the midterms",
+          "link": "https://www.npr.org/2026/11/05/nx-s1-6028977/democrats-foreign-policy-iran-war-ukraine",
+          "date": "Thu, 05 Nov 2026 04:50:34 -0500"
+        },
+        {
           "title": "Bob Dylan comes knockin' on pope's door as Leo welcomes legend to Vatican",
           "link": "https://www.npr.org/2026/11/05/g-s1-152035/vatican-pope-bob-dylan",
           "date": "Thu, 05 Nov 2026 02:02:12 -0500"
         },
         {
-          "title": "Hong Kong activist Joshua Wong sentenced to 10 years in prison",
+          "title": "Hong Kong activist Joshua Wong is sentenced to 10 more years in prison",
           "link": "https://www.npr.org/2026/11/05/g-s1-152032/hong-kong-activist-wong-sentenced",
           "date": "Thu, 05 Nov 2026 00:29:56 -0500"
         },
@@ -119,26 +92,6 @@
           "title": "The world is reacting to the Democrats' sweeping midterm elections victory",
           "link": "https://www.npr.org/2026/11/04/nx-s1-6028664/world-reacts-midterm-elections",
           "date": "Wed, 04 Nov 2026 07:34:35 -0500"
-        },
-        {
-          "title": "Democrats seize full control of Congress. And, which candidates made history last night",
-          "link": "https://www.npr.org/2026/11/04/g-s1-151745/up-first-newsletter-midterms-democrats-congress-control",
-          "date": "Wed, 04 Nov 2026 07:18:39 -0500"
-        },
-        {
-          "title": "Japan faces diplomatic dilemma amid joint pressure from nuclear neighbors",
-          "link": "https://www.npr.org/2026/11/03/nx-s1-6012016/japan-faces-diplomatic-dilemma-amid-joint-pressure-from-nuclear-neighbors",
-          "date": "Tue, 03 Nov 2026 17:25:15 -0500"
-        },
-        {
-          "title": "For Ukraine's Kherson region, a short ceasefire meant a momentary return to normal life",
-          "link": "https://www.npr.org/2026/11/03/g-s1-151238/ukraine-russia-ceasefire-oleshky-kherson",
-          "date": "Tue, 03 Nov 2026 10:54:39 -0500"
-        },
-        {
-          "title": "Indian navy rescues 20 crew from Iranian fishing boat hijacked off Somalia",
-          "link": "https://www.npr.org/2026/11/03/g-s1-151468/indian-navy-rescues-20-crew-from-iranian-fishing-boat-hijacked-off-somalia",
-          "date": "Tue, 03 Nov 2026 09:13:58 -0500"
         }
       ]
     },
@@ -173,19 +126,19 @@
           "date": "Wed, 28 Oct 2026 14:16:24 GMT"
         },
         {
-          "title": "Mother and daughter killed in grizzly bear attack, Canadian authorities confirm",
-          "link": "https://www.theguardian.com/world/2026/nov/04/canada-bear-attack-mother-daughter-killed",
-          "date": "Wed, 04 Nov 2026 19:42:47 GMT"
+          "title": "Paraguay’s president quits after millions of people’s savings frozen in bank crisis",
+          "link": "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns",
+          "date": "Fri, 06 Nov 2026 06:16:22 GMT"
         },
         {
-          "title": "One dead and another missing in suspected grizzly bear attack in Canada",
-          "link": "https://www.theguardian.com/world/2026/nov/03/grizzly-bear-attack-canada",
-          "date": "Tue, 03 Nov 2026 22:08:50 GMT"
+          "title": "Peru airport officials discover 3,000 tarantulas smuggled inside dirty socks",
+          "link": "https://www.theguardian.com/world/2026/nov/06/3000-tarantulas-smuggled-inside-dirty-socks-peru",
+          "date": "Fri, 06 Nov 2026 01:22:49 GMT"
         },
         {
-          "title": "Brazil publishes first global ‘roadmap’ for phasing out fossil fuels",
-          "link": "https://www.theguardian.com/environment/2026/nov/03/brazil-first-global-roadmap-phasing-out-fossil-fuels",
-          "date": "Tue, 03 Nov 2026 13:00:07 GMT"
+          "title": "How elderly ‘unsung heroes’ powered Lula’s historic fightback in Brazil",
+          "link": "https://www.theguardian.com/world/2026/nov/05/unsung-heroes-behind-lula-surprise-election-triumph-brazil-runoff-bolsonaro",
+          "date": "Thu, 05 Nov 2026 11:00:21 GMT"
         }
       ]
     }
