@@ -1,11 +1,63 @@
 {
-  "updated": "2026-11-06T07:06:22.637818+00:00",
+  "updated": "2026-11-07T06:18:39.896660+00:00",
   "feeds": [
+    {
+      "id": "bbc-globalnews",
+      "name": "BBC Global News Podcast",
+      "url": "https://downloads.bbc.co.uk/podcasts/worldservice/globalnews/rss.xml",
+      "items": [
+        {
+          "title": "Trump appoints new chief of staff after midterm defeat",
+          "link": "http://www.bbc.co.uk/programmes/p0plrs2j",
+          "date": "Sat, 07 Nov 2026 04:19:00 +0000"
+        },
+        {
+          "title": "Tech stocks tank over AI panic",
+          "link": "http://www.bbc.co.uk/programmes/p0plnyvn",
+          "date": "Fri, 06 Nov 2026 16:06:00 +0000"
+        },
+        {
+          "title": "Pete Hegseth under pressure after US elections",
+          "link": "http://www.bbc.co.uk/programmes/p0plk945",
+          "date": "Fri, 06 Nov 2026 05:39:00 +0000"
+        },
+        {
+          "title": "Fresh mass protests in France",
+          "link": "http://www.bbc.co.uk/programmes/p0plh2tw",
+          "date": "Thu, 05 Nov 2026 16:22:00 +0000"
+        },
+        {
+          "title": "Trump blames Iran war for midterm defeat",
+          "link": "http://www.bbc.co.uk/programmes/p0plcn0g",
+          "date": "Thu, 05 Nov 2026 05:22:00 +0000"
+        },
+        {
+          "title": "Democrats storm to success in US midterm elections",
+          "link": "http://www.bbc.co.uk/programmes/p0pl9nf9",
+          "date": "Wed, 04 Nov 2026 16:36:00 +0000"
+        },
+        {
+          "title": "Democrats projected to take control of US Congress",
+          "link": "http://www.bbc.co.uk/programmes/p0pl6m46",
+          "date": "Wed, 04 Nov 2026 05:51:00 +0000"
+        },
+        {
+          "title": "Americans vote in pivotal midterm elections",
+          "link": "http://www.bbc.co.uk/programmes/p0pl435f",
+          "date": "Tue, 03 Nov 2026 16:45:00 +0000"
+        }
+      ]
+    },
     {
       "id": "cnn10",
       "name": "CNN 10",
       "url": "https://feeds.megaphone.fm/WMHY2232473209",
       "items": [
+        {
+          "title": "How Did Viking Graffiti Get Inside One of the World’s Most Famous Mosques?",
+          "link": "",
+          "date": "Fri, 06 Nov 2026 15:45:00 -0000"
+        },
         {
           "title": "The Historic Firsts of the 2026 Midterm Election",
           "link": "",
@@ -40,11 +92,6 @@
           "title": "How a Student-Led Movement Ousted Serbia’s Long-Term President",
           "link": "",
           "date": "Wed, 28 Oct 2026 11:57:00 -0000"
-        },
-        {
-          "title": "America Welcomes Its 64th National Park in Arizona",
-          "link": "",
-          "date": "Tue, 27 Oct 2026 14:37:00 -0000"
         }
       ]
     },
@@ -54,44 +101,44 @@
       "url": "https://feeds.npr.org/1004/rss.xml",
       "items": [
         {
-          "title": "Paraguay's president is impeached minutes after resigning following a bank collapse",
-          "link": "https://www.npr.org/2026/11/05/nx-s1-6030842/paraguay-president-impeached-bank-collapse",
-          "date": "Thu, 05 Nov 2026 13:30:16 -0500"
+          "title": "Israel's Arab-led parties in spotlight after inconclusive election",
+          "link": "https://www.npr.org/2026/11/06/g-s1-152138/israel-election-palestinian-arab-parties",
+          "date": "Fri, 06 Nov 2026 15:42:51 -0500"
         },
         {
-          "title": "Russell Brand is convicted of rape, and judge says he'll get a prison term",
-          "link": "https://www.npr.org/2026/11/05/nx-s1-6030720/russell-brand-rape-sexual-assault-prison",
-          "date": "Thu, 05 Nov 2026 11:15:02 -0500"
+          "title": "Pope Leo begins a 12-day, 3-country South America tour after his cancer surgery",
+          "link": "https://www.npr.org/2026/11/06/nx-s1-6026702/pope-leo-begins-12-day-3-country-tour-after-cancer-surgery",
+          "date": "Fri, 06 Nov 2026 14:13:06 -0500"
         },
         {
-          "title": "What's next for Democrats after the midterms. And, a look at the outstanding races",
-          "link": "https://www.npr.org/2026/11/05/g-s1-152046/up-first-newsletter-democrats-congress-control-house-senate-trump-reaction",
-          "date": "Thu, 05 Nov 2026 07:02:24 -0500"
+          "title": "Health intel-sharing group warns industry in wake of cyberattack on French blood bank",
+          "link": "https://www.npr.org/2026/11/06/nx-s1-6032602/cyberattack-blood-bank-healthcare",
+          "date": "Fri, 06 Nov 2026 14:00:21 -0500"
         },
         {
-          "title": "Three ways Democrats could reshape U.S. foreign policy after the midterms",
-          "link": "https://www.npr.org/2026/11/05/nx-s1-6028977/democrats-foreign-policy-iran-war-ukraine",
-          "date": "Thu, 05 Nov 2026 04:50:34 -0500"
+          "title": "European flights and broadcasters are targeted with another wave of bomb threats",
+          "link": "https://www.npr.org/2026/11/06/nx-s1-6032612/europe-flights-hoaxes",
+          "date": "Fri, 06 Nov 2026 10:21:31 -0500"
         },
         {
-          "title": "Bob Dylan comes knockin' on pope's door as Leo welcomes legend to Vatican",
-          "link": "https://www.npr.org/2026/11/05/g-s1-152035/vatican-pope-bob-dylan",
-          "date": "Thu, 05 Nov 2026 02:02:12 -0500"
+          "title": "The leader of a Kenyan doomsday cult is sentenced to 200 years in prison",
+          "link": "https://www.npr.org/2026/11/06/nx-s1-6032593/kenya-cult-leader-paul-mackenzie-sentenced-murder",
+          "date": "Fri, 06 Nov 2026 09:53:46 -0500"
         },
         {
-          "title": "Hong Kong activist Joshua Wong is sentenced to 10 more years in prison",
-          "link": "https://www.npr.org/2026/11/05/g-s1-152032/hong-kong-activist-wong-sentenced",
-          "date": "Thu, 05 Nov 2026 00:29:56 -0500"
+          "title": "Ex-lawmaker gets 12.5 years in Macao's first national security case",
+          "link": "https://www.npr.org/2026/11/06/g-s1-152217/ex-lawmaker-gets-12-5-years-in-macaos-first-national-security-case",
+          "date": "Fri, 06 Nov 2026 08:56:43 -0500"
         },
         {
-          "title": "Abdul El-Sayed welcomes Trump's plan to cut Israel aid, calls for end to arms sales",
-          "link": "https://www.npr.org/2026/11/04/nx-s1-6028702/abdul-el-sayed-michigan-senate-israel-aid",
-          "date": "Wed, 04 Nov 2026 08:38:09 -0500"
+          "title": "Judge halts construction of Trump's arch. And, Labor Department to release jobs report",
+          "link": "https://www.npr.org/2026/11/06/g-s1-152213/up-first-newsletter-job-market-trump-arch-school-enrollment-harmeet-dhillon",
+          "date": "Fri, 06 Nov 2026 07:24:52 -0500"
         },
         {
-          "title": "The world is reacting to the Democrats' sweeping midterm elections victory",
-          "link": "https://www.npr.org/2026/11/04/nx-s1-6028664/world-reacts-midterm-elections",
-          "date": "Wed, 04 Nov 2026 07:34:35 -0500"
+          "title": "After cancer surgery, Pope Leo embarks on Latin America trip",
+          "link": "https://www.npr.org/2026/11/06/nx-s1-6032454/pope-leo-latin-america-trip",
+          "date": "Fri, 06 Nov 2026 04:19:57 -0500"
         }
       ]
     },
@@ -100,6 +147,16 @@
       "name": "The Guardian · World",
       "url": "https://www.theguardian.com/world/rss",
       "items": [
+        {
+          "title": "Kenyan doomsday sect leader jailed for 200 years for murder of 190 children",
+          "link": "https://www.theguardian.com/world/2026/nov/06/kenyan-doomsday-sect-leader-jailed-murders-paul-mackenzie",
+          "date": "Fri, 06 Nov 2026 15:08:43 GMT"
+        },
+        {
+          "title": "ANC faces bruising defeat in South African local elections with 80% of ballots counted",
+          "link": "https://www.theguardian.com/world/2026/nov/06/anc-faces-defeat-south-african-local-elections",
+          "date": "Fri, 06 Nov 2026 12:48:37 GMT"
+        },
         {
           "title": "British healthcare worker with Ebola evacuated from DR Congo to UK",
           "link": "https://www.theguardian.com/world/2026/nov/04/british-healthcare-worker-ebola-evacuated-drc-to-uk-document-shows",
@@ -116,29 +173,19 @@
           "date": "Fri, 30 Oct 2026 05:00:45 GMT"
         },
         {
-          "title": "Sudanese diaspora and human rights groups denounce UAE nominee for UN top job",
-          "link": "https://www.theguardian.com/world/2026/oct/30/sudanese-diaspora-human-rights-groups-denounce-uae-nominee-un-top-job",
-          "date": "Fri, 30 Oct 2026 05:00:45 GMT"
+          "title": "Ousted Paraguay president under house arrest after banking crisis leaves 60% of country unable to access accounts",
+          "link": "https://www.theguardian.com/world/2026/nov/07/ousted-paraguay-president-under-house-arrest-after-banking-crisis-leaves-60-of-country-unable-to-access-accounts",
+          "date": "Sat, 07 Nov 2026 01:55:11 GMT"
         },
         {
-          "title": "Egypt fines prominent editor Lina Attalah and shuts independent news outlet Mada Masr",
-          "link": "https://www.theguardian.com/world/2026/oct/28/egypt-lina-attalah-mada-masr-press-freedom-clampdown",
-          "date": "Wed, 28 Oct 2026 14:16:24 GMT"
+          "title": "Sebastián Lelio, director of A Fantastic Woman and Gloria, dies aged 52",
+          "link": "https://www.theguardian.com/film/2026/nov/06/sebastian-lelio-chilean-director-dies",
+          "date": "Fri, 06 Nov 2026 19:23:24 GMT"
         },
         {
-          "title": "Paraguay’s president quits after millions of people’s savings frozen in bank crisis",
-          "link": "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns",
-          "date": "Fri, 06 Nov 2026 06:16:22 GMT"
-        },
-        {
-          "title": "Peru airport officials discover 3,000 tarantulas smuggled inside dirty socks",
-          "link": "https://www.theguardian.com/world/2026/nov/06/3000-tarantulas-smuggled-inside-dirty-socks-peru",
-          "date": "Fri, 06 Nov 2026 01:22:49 GMT"
-        },
-        {
-          "title": "How elderly ‘unsung heroes’ powered Lula’s historic fightback in Brazil",
-          "link": "https://www.theguardian.com/world/2026/nov/05/unsung-heroes-behind-lula-surprise-election-triumph-brazil-runoff-bolsonaro",
-          "date": "Thu, 05 Nov 2026 11:00:21 GMT"
+          "title": "Flávio Bolsonaro battles to remain relevant as he speaks at rightwing conference at Mar-a-Lago",
+          "link": "https://www.theguardian.com/world/2026/nov/06/flavio-bolsonaro-upbeat-brazil-election-us",
+          "date": "Fri, 06 Nov 2026 13:03:38 GMT"
         }
       ]
     }
