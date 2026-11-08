@@ -1,11 +1,21 @@
 {
-  "updated": "2026-11-07T06:18:39.896660+00:00",
+  "updated": "2026-11-08T06:25:17.335805+00:00",
   "feeds": [
     {
       "id": "bbc-globalnews",
       "name": "BBC Global News Podcast",
       "url": "https://downloads.bbc.co.uk/podcasts/worldservice/globalnews/rss.xml",
       "items": [
+        {
+          "title": "Poland in shock as six killed in shooting",
+          "link": "http://www.bbc.co.uk/programmes/p0plw73g",
+          "date": "Sun, 08 Nov 2026 04:44:00 +0000"
+        },
+        {
+          "title": "The Happy Pod: Celebrating the wedding that never happened",
+          "link": "http://www.bbc.co.uk/programmes/p0plplrh",
+          "date": "Sat, 07 Nov 2026 12:00:00 +0000"
+        },
         {
           "title": "Trump appoints new chief of staff after midterm defeat",
           "link": "http://www.bbc.co.uk/programmes/p0plrs2j",
@@ -35,16 +45,6 @@
           "title": "Democrats storm to success in US midterm elections",
           "link": "http://www.bbc.co.uk/programmes/p0pl9nf9",
           "date": "Wed, 04 Nov 2026 16:36:00 +0000"
-        },
-        {
-          "title": "Democrats projected to take control of US Congress",
-          "link": "http://www.bbc.co.uk/programmes/p0pl6m46",
-          "date": "Wed, 04 Nov 2026 05:51:00 +0000"
-        },
-        {
-          "title": "Americans vote in pivotal midterm elections",
-          "link": "http://www.bbc.co.uk/programmes/p0pl435f",
-          "date": "Tue, 03 Nov 2026 16:45:00 +0000"
         }
       ]
     },
@@ -101,6 +101,26 @@
       "url": "https://feeds.npr.org/1004/rss.xml",
       "items": [
         {
+          "title": "Israeli president invites Netanyahu's opposition leader to broker new government",
+          "link": "https://www.npr.org/2026/11/07/nx-s1-6032606/israeli-president-invites-netanyahus-opposition-leader-to-broker-new-government",
+          "date": "Sat, 07 Nov 2026 17:12:09 -0500"
+        },
+        {
+          "title": "A correspondent finds Cuba's people struggling",
+          "link": "https://www.npr.org/2026/11/07/nx-s1-6029398/a-correspondent-finds-cubas-people-struggling",
+          "date": "Sat, 07 Nov 2026 17:12:06 -0500"
+        },
+        {
+          "title": "Israel's president taps opposition candidate, not Netanyahu, to form a government",
+          "link": "https://www.npr.org/2026/11/07/g-s1-152536/netanyahu-israel-government-eisenkot-herzog",
+          "date": "Sat, 07 Nov 2026 15:18:18 -0500"
+        },
+        {
+          "title": "Ousted Paraguayan president appears before prosecutors",
+          "link": "https://www.npr.org/2026/11/07/nx-s1-6033373/paraguay-president-ousted-bank-collapse",
+          "date": "Sat, 07 Nov 2026 12:14:36 -0500"
+        },
+        {
           "title": "Israel's Arab-led parties in spotlight after inconclusive election",
           "link": "https://www.npr.org/2026/11/06/g-s1-152138/israel-election-palestinian-arab-parties",
           "date": "Fri, 06 Nov 2026 15:42:51 -0500"
@@ -119,26 +139,6 @@
           "title": "European flights and broadcasters are targeted with another wave of bomb threats",
           "link": "https://www.npr.org/2026/11/06/nx-s1-6032612/europe-flights-hoaxes",
           "date": "Fri, 06 Nov 2026 10:21:31 -0500"
-        },
-        {
-          "title": "The leader of a Kenyan doomsday cult is sentenced to 200 years in prison",
-          "link": "https://www.npr.org/2026/11/06/nx-s1-6032593/kenya-cult-leader-paul-mackenzie-sentenced-murder",
-          "date": "Fri, 06 Nov 2026 09:53:46 -0500"
-        },
-        {
-          "title": "Ex-lawmaker gets 12.5 years in Macao's first national security case",
-          "link": "https://www.npr.org/2026/11/06/g-s1-152217/ex-lawmaker-gets-12-5-years-in-macaos-first-national-security-case",
-          "date": "Fri, 06 Nov 2026 08:56:43 -0500"
-        },
-        {
-          "title": "Judge halts construction of Trump's arch. And, Labor Department to release jobs report",
-          "link": "https://www.npr.org/2026/11/06/g-s1-152213/up-first-newsletter-job-market-trump-arch-school-enrollment-harmeet-dhillon",
-          "date": "Fri, 06 Nov 2026 07:24:52 -0500"
-        },
-        {
-          "title": "After cancer surgery, Pope Leo embarks on Latin America trip",
-          "link": "https://www.npr.org/2026/11/06/nx-s1-6032454/pope-leo-latin-america-trip",
-          "date": "Fri, 06 Nov 2026 04:19:57 -0500"
         }
       ]
     },
