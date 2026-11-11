@@ -1,58 +1,16 @@
 {
-  "updated": "2026-11-10T07:34:09.945259+00:00",
+  "updated": "2026-11-11T06:51:51.705129+00:00",
   "feeds": [
-    {
-      "id": "bbc-globalnews",
-      "name": "BBC Global News Podcast",
-      "url": "https://downloads.bbc.co.uk/podcasts/worldservice/globalnews/rss.xml",
-      "items": [
-        {
-          "title": "Trump backs Hegseth as he faces impeachment push",
-          "link": "http://www.bbc.co.uk/programmes/p0pm6qtr",
-          "date": "Tue, 10 Nov 2026 05:19:00 +0000"
-        },
-        {
-          "title": "China denies spying on Nvidia boss",
-          "link": "http://www.bbc.co.uk/programmes/p0pm36r2",
-          "date": "Mon, 09 Nov 2026 15:29:00 +0000"
-        },
-        {
-          "title": "Nvidia investigates CEO's affair with suspected Chinese spy",
-          "link": "http://www.bbc.co.uk/programmes/p0plzjqt",
-          "date": "Mon, 09 Nov 2026 05:32:00 +0000"
-        },
-        {
-          "title": "The Global Story: They fled Russia. The US sent them back",
-          "link": "http://www.bbc.co.uk/programmes/p0pllbwj",
-          "date": "Sun, 08 Nov 2026 20:00:00 +0000"
-        },
-        {
-          "title": "Poland in shock as six killed in shooting",
-          "link": "http://www.bbc.co.uk/programmes/p0plw73g",
-          "date": "Sun, 08 Nov 2026 04:44:00 +0000"
-        },
-        {
-          "title": "The Happy Pod: Celebrating the wedding that never happened",
-          "link": "http://www.bbc.co.uk/programmes/p0plplrh",
-          "date": "Sat, 07 Nov 2026 12:00:00 +0000"
-        },
-        {
-          "title": "Trump appoints new chief of staff after midterm defeat",
-          "link": "http://www.bbc.co.uk/programmes/p0plrs2j",
-          "date": "Sat, 07 Nov 2026 04:19:00 +0000"
-        },
-        {
-          "title": "Tech stocks tank over AI panic",
-          "link": "http://www.bbc.co.uk/programmes/p0plnyvn",
-          "date": "Fri, 06 Nov 2026 16:06:00 +0000"
-        }
-      ]
-    },
     {
       "id": "cnn10",
       "name": "CNN 10",
       "url": "https://feeds.megaphone.fm/WMHY2232473209",
       "items": [
+        {
+          "title": "Meat Is Scarce in North Korea. So Why the BBQ Boom?",
+          "link": "",
+          "date": "Tue, 10 Nov 2026 15:12:00 -0000"
+        },
         {
           "title": "Millions Celebrate Diwali: The Festival of Lights",
           "link": "",
@@ -87,11 +45,6 @@
           "title": "The Spooktacular History Behind Halloween, Explained",
           "link": "",
           "date": "Fri, 30 Oct 2026 16:08:00 -0000"
-        },
-        {
-          "title": "Spain Investigates Deadly Collision Between Two High-Speed Trains",
-          "link": "",
-          "date": "Thu, 29 Oct 2026 15:00:00 -0000"
         }
       ]
     },
@@ -101,44 +54,44 @@
       "url": "https://feeds.npr.org/1004/rss.xml",
       "items": [
         {
-          "title": "France accuses Iran of cyber 'sabotage' in fridge attacks",
+          "title": "U.S. boycotts U.N. human rights review for second year running",
+          "link": "https://www.npr.org/2026/11/10/nx-s1-6034998/un-human-rights-us-geneva",
+          "date": "Tue, 10 Nov 2026 13:53:34 -0500"
+        },
+        {
+          "title": "'Like gods reigning over humans': Many defectors see daughter of North Korea's Kim as heir apparent",
+          "link": "https://www.npr.org/2026/11/10/g-s1-152795/like-gods-reigning-over-humans-many-defectors-see-daughter-of-north-koreas-kim-as-heir-apparent",
+          "date": "Tue, 10 Nov 2026 09:16:53 -0500"
+        },
+        {
+          "title": "Indonesia's VP offers resignation as questions mount over his eligibility",
+          "link": "https://www.npr.org/2026/11/10/g-s1-152788/indonesias-vp-offers-resignation-as-questions-mount-over-his-eligibility",
+          "date": "Tue, 10 Nov 2026 09:01:14 -0500"
+        },
+        {
+          "title": "House set to vote to impeach Hegseth. And, SCOTUS allows border wall work to proceed",
+          "link": "https://www.npr.org/2026/11/10/g-s1-152777/up-first-newsletter-pete-hegseth-impeachment-trump-iran-nvidia-border-wall-texas",
+          "date": "Tue, 10 Nov 2026 07:01:04 -0500"
+        },
+        {
+          "title": "Russia and Ukraine hold nearly 4 hours of U.S.-mediated talks in Abu Dhabi",
+          "link": "https://www.npr.org/2026/11/10/g-s1-152773/russia-ukraine-war-talks",
+          "date": "Tue, 10 Nov 2026 05:58:18 -0500"
+        },
+        {
+          "title": "Kushner and Witkoff renew peace talks to end war between Russia and Ukraine",
+          "link": "https://www.npr.org/2026/11/10/nx-s1-6034616/kushner-and-witkoff-renew-peace-talks-to-end-war-between-russia-and-ukraine",
+          "date": "Tue, 10 Nov 2026 04:38:34 -0500"
+        },
+        {
+          "title": "Iran denies it was behind cyber fridge attacks targeting France",
           "link": "https://www.npr.org/2026/11/09/g-s1-152724/france-iran-cyber-sabotage-fridge-attacks",
           "date": "Mon, 09 Nov 2026 17:30:49 -0500"
         },
         {
-          "title": "Thick smog shrouds New Delhi after Diwali firecrackers add to seasonal pollution",
-          "link": "https://www.npr.org/2026/11/09/g-s1-152634/thick-smog-shrouds-new-delhi-after-diwali-firecrackers-add-to-seasonal-pollution",
-          "date": "Mon, 09 Nov 2026 10:09:53 -0500"
-        },
-        {
-          "title": "British comedian Russell Brand sentenced to over 10 years for rape and sexual assault",
-          "link": "https://www.npr.org/2026/11/09/nx-s1-6034335/british-comedian-russell-brand-sentenced",
-          "date": "Mon, 09 Nov 2026 09:36:54 -0500"
-        },
-        {
-          "title": "Congress is back after GOP's midterm defeat. And, Trump appoints new chief of staff",
-          "link": "https://www.npr.org/2026/11/09/g-s1-152627/up-first-newsletter-stephen-miller-trump-congress-nvidia-cop31",
-          "date": "Mon, 09 Nov 2026 07:45:14 -0500"
-        },
-        {
-          "title": "Why a South Korean city is turning to a U.S. college to outsmart AI?",
-          "link": "https://www.npr.org/2026/11/09/g-s1-151519/why-a-south-korean-city-is-turning-to-a-u-s-college-to-outsmart-ai",
-          "date": "Mon, 09 Nov 2026 05:47:00 -0500"
-        },
-        {
-          "title": "How a bank collapse left millions in limbo and toppled Paraguay's president",
-          "link": "https://www.npr.org/2026/11/09/nx-s1-6034066/paraguay-president-pena-ueno",
-          "date": "Mon, 09 Nov 2026 01:20:44 -0500"
-        },
-        {
-          "title": "The world's largest telecoms firm is on trial and the outcome has global implications",
-          "link": "https://www.npr.org/2026/11/08/nx-s1-6030670/the-worlds-largest-telecoms-firm-is-on-trial-and-the-outcome-has-global-implications",
-          "date": "Sun, 08 Nov 2026 17:04:13 -0500"
-        },
-        {
-          "title": "Trying to find true owners, Paris' Musee D'Orsay exhibits art looted by Nazis",
-          "link": "https://www.npr.org/2026/11/08/nx-s1-5928034/trying-to-find-true-owners-paris-musee-dorsay-exhibits-art-looted-by-nazis",
-          "date": "Sun, 08 Nov 2026 17:04:09 -0500"
+          "title": "What Trump meant when he said the U.S. is cutting aid to Israel",
+          "link": "https://www.npr.org/2026/11/09/nx-s1-6029320/us-trump-israel-military-aid",
+          "date": "Mon, 09 Nov 2026 16:58:14 -0500"
         }
       ]
     },
@@ -147,6 +100,11 @@
       "name": "The Guardian · World",
       "url": "https://www.theguardian.com/world/rss",
       "items": [
+        {
+          "title": "Lewis Hamilton visits Egypt’s Rafah crossing and Gaza aid facilities",
+          "link": "https://www.theguardian.com/world/2026/nov/10/lewis-hamilton-egypt-rafah-crossing-gaza-aid-facilities",
+          "date": "Tue, 10 Nov 2026 15:39:26 GMT"
+        },
         {
           "title": "Collision of two trains in Egypt kills at least seven",
           "link": "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision",
@@ -168,9 +126,9 @@
           "date": "Fri, 06 Nov 2026 12:48:37 GMT"
         },
         {
-          "title": "British healthcare worker with Ebola evacuated from DR Congo to UK",
-          "link": "https://www.theguardian.com/world/2026/nov/04/british-healthcare-worker-ebola-evacuated-drc-to-uk-document-shows",
-          "date": "Wed, 04 Nov 2026 18:18:37 GMT"
+          "title": "Falkland Islanders face ‘devastating consequences’ if Argentina blocks oil project, says UK",
+          "link": "https://www.theguardian.com/world/2026/nov/10/uk-and-argentina-clash-over-falklands-oil-project-as-hamburg-tribunal-starts",
+          "date": "Tue, 10 Nov 2026 19:01:33 GMT"
         },
         {
           "title": "Deadly floods hit Iraq as thunderstorms sweep across region",
@@ -181,11 +139,6 @@
           "title": "Pope Leo delivers stinging rebuke of Milei’s austerity measures during Argentina visit",
           "link": "https://www.theguardian.com/world/2026/nov/09/pope-leo-argentina-visit-speech-javier-milei-austerity",
           "date": "Mon, 09 Nov 2026 02:11:25 GMT"
-        },
-        {
-          "title": "Pope’s visit to Argentina sets up showdown with ‘hyper-capitalist’ Milei",
-          "link": "https://www.theguardian.com/world/2026/nov/08/popes-visit-to-argentina-sets-up-showdown-with-hyper-capitalist-milei",
-          "date": "Sun, 08 Nov 2026 09:00:35 GMT"
         }
       ]
     }
