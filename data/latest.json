@@ -1,11 +1,63 @@
 {
-  "updated": "2026-11-11T06:51:51.705129+00:00",
+  "updated": "2026-11-12T07:28:41.343285+00:00",
   "feeds": [
+    {
+      "id": "bbc-globalnews",
+      "name": "BBC Global News Podcast",
+      "url": "https://downloads.bbc.co.uk/podcasts/worldservice/globalnews/rss.xml",
+      "items": [
+        {
+          "title": "Democrat Scott Colom wins Mississippi in historic victory",
+          "link": "http://www.bbc.co.uk/programmes/p0pmjmtq",
+          "date": "Thu, 12 Nov 2026 05:19:00 +0000"
+        },
+        {
+          "title": "Russia-Ukraine talks: Prisoner release agreed",
+          "link": "http://www.bbc.co.uk/programmes/p0pmgsdd",
+          "date": "Wed, 11 Nov 2026 16:24:00 +0000"
+        },
+        {
+          "title": "US soldier arrested in UK on suspicion of spying for Russia",
+          "link": "http://www.bbc.co.uk/programmes/p0pmcskb",
+          "date": "Wed, 11 Nov 2026 05:27:00 +0000"
+        },
+        {
+          "title": "How US model agencies helped Epstein access victims",
+          "link": "http://www.bbc.co.uk/programmes/p0pm9szt",
+          "date": "Tue, 10 Nov 2026 15:47:00 +0000"
+        },
+        {
+          "title": "Trump backs Hegseth as he faces impeachment push",
+          "link": "http://www.bbc.co.uk/programmes/p0pm6qtr",
+          "date": "Tue, 10 Nov 2026 05:19:00 +0000"
+        },
+        {
+          "title": "China denies spying on Nvidia boss",
+          "link": "http://www.bbc.co.uk/programmes/p0pm36r2",
+          "date": "Mon, 09 Nov 2026 15:29:00 +0000"
+        },
+        {
+          "title": "Nvidia investigates CEO's affair with suspected Chinese spy",
+          "link": "http://www.bbc.co.uk/programmes/p0plzjqt",
+          "date": "Mon, 09 Nov 2026 05:32:00 +0000"
+        },
+        {
+          "title": "The Global Story: They fled Russia. The US sent them back",
+          "link": "http://www.bbc.co.uk/programmes/p0pllbwj",
+          "date": "Sun, 08 Nov 2026 20:00:00 +0000"
+        }
+      ]
+    },
     {
       "id": "cnn10",
       "name": "CNN 10",
       "url": "https://feeds.megaphone.fm/WMHY2232473209",
       "items": [
+        {
+          "title": "Why a History-Making Ocean Liner Is Being Sunk on Purpose",
+          "link": "",
+          "date": "Wed, 11 Nov 2026 14:51:00 -0000"
+        },
         {
           "title": "Meat Is Scarce in North Korea. So Why the BBQ Boom?",
           "link": "",
@@ -40,11 +92,6 @@
           "title": "FBI: North Korea Behind World’s Largest Cryptocurrency Heist",
           "link": "",
           "date": "Mon, 02 Nov 2026 19:22:00 -0000"
-        },
-        {
-          "title": "The Spooktacular History Behind Halloween, Explained",
-          "link": "",
-          "date": "Fri, 30 Oct 2026 16:08:00 -0000"
         }
       ]
     },
@@ -54,6 +101,36 @@
       "url": "https://feeds.npr.org/1004/rss.xml",
       "items": [
         {
+          "title": "Greetings from Senegal, where breakdancers are competing in the Youth Olympics",
+          "link": "https://www.npr.org/2026/11/11/g-s1-150228/senegal-youth-olympic-games-breakdancing",
+          "date": "Wed, 11 Nov 2026 12:23:10 -0500"
+        },
+        {
+          "title": "Russia and Ukraine agree to a prisoner exchange as talks end with no big breakthrough",
+          "link": "https://www.npr.org/2026/11/11/g-s1-152954/russia-ukraine-war-talks",
+          "date": "Wed, 11 Nov 2026 08:30:00 -0500"
+        },
+        {
+          "title": "House effectively ends Hegseth impeachment. And, 3 men accused of plotting U.K. attacks",
+          "link": "https://www.npr.org/2026/11/11/g-s1-152949/up-first-newsletter-pete-hegseth-jim-jordan-iran-backed-trio-us-bases",
+          "date": "Wed, 11 Nov 2026 07:21:59 -0500"
+        },
+        {
+          "title": "An Iran-backed trio is accused of plotting attacks on a U.K. base hosting U.S. jets",
+          "link": "https://www.npr.org/2026/11/10/nx-s1-6036786/uk-iran-airbase-russia-spy",
+          "date": "Wed, 11 Nov 2026 05:02:54 -0500"
+        },
+        {
+          "title": "Spain's workers hold a general strike over housing costs before national election",
+          "link": "https://www.npr.org/2026/11/11/nx-s1-6037314/spain-general-strike",
+          "date": "Wed, 11 Nov 2026 04:54:54 -0500"
+        },
+        {
+          "title": "Ebola tops 11,000 cases in Congo's deadliest outbreak",
+          "link": "https://www.npr.org/2026/11/11/nx-s1-6037304/ebola-congo-outbreak",
+          "date": "Wed, 11 Nov 2026 04:16:01 -0500"
+        },
+        {
           "title": "U.S. boycotts U.N. human rights review for second year running",
           "link": "https://www.npr.org/2026/11/10/nx-s1-6034998/un-human-rights-us-geneva",
           "date": "Tue, 10 Nov 2026 13:53:34 -0500"
@@ -62,36 +139,6 @@
           "title": "'Like gods reigning over humans': Many defectors see daughter of North Korea's Kim as heir apparent",
           "link": "https://www.npr.org/2026/11/10/g-s1-152795/like-gods-reigning-over-humans-many-defectors-see-daughter-of-north-koreas-kim-as-heir-apparent",
           "date": "Tue, 10 Nov 2026 09:16:53 -0500"
-        },
-        {
-          "title": "Indonesia's VP offers resignation as questions mount over his eligibility",
-          "link": "https://www.npr.org/2026/11/10/g-s1-152788/indonesias-vp-offers-resignation-as-questions-mount-over-his-eligibility",
-          "date": "Tue, 10 Nov 2026 09:01:14 -0500"
-        },
-        {
-          "title": "House set to vote to impeach Hegseth. And, SCOTUS allows border wall work to proceed",
-          "link": "https://www.npr.org/2026/11/10/g-s1-152777/up-first-newsletter-pete-hegseth-impeachment-trump-iran-nvidia-border-wall-texas",
-          "date": "Tue, 10 Nov 2026 07:01:04 -0500"
-        },
-        {
-          "title": "Russia and Ukraine hold nearly 4 hours of U.S.-mediated talks in Abu Dhabi",
-          "link": "https://www.npr.org/2026/11/10/g-s1-152773/russia-ukraine-war-talks",
-          "date": "Tue, 10 Nov 2026 05:58:18 -0500"
-        },
-        {
-          "title": "Kushner and Witkoff renew peace talks to end war between Russia and Ukraine",
-          "link": "https://www.npr.org/2026/11/10/nx-s1-6034616/kushner-and-witkoff-renew-peace-talks-to-end-war-between-russia-and-ukraine",
-          "date": "Tue, 10 Nov 2026 04:38:34 -0500"
-        },
-        {
-          "title": "Iran denies it was behind cyber fridge attacks targeting France",
-          "link": "https://www.npr.org/2026/11/09/g-s1-152724/france-iran-cyber-sabotage-fridge-attacks",
-          "date": "Mon, 09 Nov 2026 17:30:49 -0500"
-        },
-        {
-          "title": "What Trump meant when he said the U.S. is cutting aid to Israel",
-          "link": "https://www.npr.org/2026/11/09/nx-s1-6029320/us-trump-israel-military-aid",
-          "date": "Mon, 09 Nov 2026 16:58:14 -0500"
         }
       ]
     },
@@ -126,19 +173,19 @@
           "date": "Fri, 06 Nov 2026 12:48:37 GMT"
         },
         {
-          "title": "Falkland Islanders face ‘devastating consequences’ if Argentina blocks oil project, says UK",
-          "link": "https://www.theguardian.com/world/2026/nov/10/uk-and-argentina-clash-over-falklands-oil-project-as-hamburg-tribunal-starts",
-          "date": "Tue, 10 Nov 2026 19:01:33 GMT"
+          "title": "Two skulls likely belonging to enslaved people returned to Brazil after Harvard used them in eugenics studies",
+          "link": "https://www.theguardian.com/news/2026/nov/11/harvard-skulls-repatriated-brazil",
+          "date": "Wed, 11 Nov 2026 22:50:37 GMT"
         },
         {
-          "title": "Deadly floods hit Iraq as thunderstorms sweep across region",
-          "link": "https://www.theguardian.com/environment/2026/nov/09/deadly-floods-iraq-thunderstorms-iran-portugal-japan-snow",
-          "date": "Mon, 09 Nov 2026 10:59:06 GMT"
+          "title": "Ex-member of radical Marxist group scales balcony, escapes house arrest in Argentina",
+          "link": "https://www.theguardian.com/world/2026/nov/11/red-brigades-leonardo-bertulazzi-escapes-house-arrest-argentina",
+          "date": "Wed, 11 Nov 2026 19:00:33 GMT"
         },
         {
-          "title": "Pope Leo delivers stinging rebuke of Milei’s austerity measures during Argentina visit",
-          "link": "https://www.theguardian.com/world/2026/nov/09/pope-leo-argentina-visit-speech-javier-milei-austerity",
-          "date": "Mon, 09 Nov 2026 02:11:25 GMT"
+          "title": "Argentinian lawyer mocks UK’s sovereignty claim in Falklands oil case",
+          "link": "https://www.theguardian.com/uk-news/2026/nov/11/argentine-lawyer-mocks-uk-sovereignty-claim-in-falklands-oil-case",
+          "date": "Wed, 11 Nov 2026 16:05:45 GMT"
         }
       ]
     }
