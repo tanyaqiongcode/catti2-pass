@@ -1,58 +1,16 @@
 {
-  "updated": "2026-11-12T07:28:41.343285+00:00",
+  "updated": "2026-11-13T06:59:44.115657+00:00",
   "feeds": [
-    {
-      "id": "bbc-globalnews",
-      "name": "BBC Global News Podcast",
-      "url": "https://downloads.bbc.co.uk/podcasts/worldservice/globalnews/rss.xml",
-      "items": [
-        {
-          "title": "Democrat Scott Colom wins Mississippi in historic victory",
-          "link": "http://www.bbc.co.uk/programmes/p0pmjmtq",
-          "date": "Thu, 12 Nov 2026 05:19:00 +0000"
-        },
-        {
-          "title": "Russia-Ukraine talks: Prisoner release agreed",
-          "link": "http://www.bbc.co.uk/programmes/p0pmgsdd",
-          "date": "Wed, 11 Nov 2026 16:24:00 +0000"
-        },
-        {
-          "title": "US soldier arrested in UK on suspicion of spying for Russia",
-          "link": "http://www.bbc.co.uk/programmes/p0pmcskb",
-          "date": "Wed, 11 Nov 2026 05:27:00 +0000"
-        },
-        {
-          "title": "How US model agencies helped Epstein access victims",
-          "link": "http://www.bbc.co.uk/programmes/p0pm9szt",
-          "date": "Tue, 10 Nov 2026 15:47:00 +0000"
-        },
-        {
-          "title": "Trump backs Hegseth as he faces impeachment push",
-          "link": "http://www.bbc.co.uk/programmes/p0pm6qtr",
-          "date": "Tue, 10 Nov 2026 05:19:00 +0000"
-        },
-        {
-          "title": "China denies spying on Nvidia boss",
-          "link": "http://www.bbc.co.uk/programmes/p0pm36r2",
-          "date": "Mon, 09 Nov 2026 15:29:00 +0000"
-        },
-        {
-          "title": "Nvidia investigates CEO's affair with suspected Chinese spy",
-          "link": "http://www.bbc.co.uk/programmes/p0plzjqt",
-          "date": "Mon, 09 Nov 2026 05:32:00 +0000"
-        },
-        {
-          "title": "The Global Story: They fled Russia. The US sent them back",
-          "link": "http://www.bbc.co.uk/programmes/p0pllbwj",
-          "date": "Sun, 08 Nov 2026 20:00:00 +0000"
-        }
-      ]
-    },
     {
       "id": "cnn10",
       "name": "CNN 10",
       "url": "https://feeds.megaphone.fm/WMHY2232473209",
       "items": [
+        {
+          "title": "US Traffic Fatalities Reach Their Lowest Point in More Than a Decade",
+          "link": "",
+          "date": "Thu, 12 Nov 2026 14:10:00 -0000"
+        },
         {
           "title": "Why a History-Making Ocean Liner Is Being Sunk on Purpose",
           "link": "",
@@ -87,11 +45,6 @@
           "title": "After 1,711 Days Apart, Ukrainian Evacuees Reunite Thanks to Ceasefire Deal",
           "link": "",
           "date": "Tue, 03 Nov 2026 12:55:00 -0000"
-        },
-        {
-          "title": "FBI: North Korea Behind World’s Largest Cryptocurrency Heist",
-          "link": "",
-          "date": "Mon, 02 Nov 2026 19:22:00 -0000"
         }
       ]
     },
@@ -101,44 +54,44 @@
       "url": "https://feeds.npr.org/1004/rss.xml",
       "items": [
         {
-          "title": "Greetings from Senegal, where breakdancers are competing in the Youth Olympics",
-          "link": "https://www.npr.org/2026/11/11/g-s1-150228/senegal-youth-olympic-games-breakdancing",
-          "date": "Wed, 11 Nov 2026 12:23:10 -0500"
+          "title": "U.S. envoys meet with Putin in the Kremlin after Ukraine talks in Abu Dhabi",
+          "link": "https://www.npr.org/2026/11/12/nx-s1-6038809/us-envoys-meet-putin-russia-ukraine-war-talks",
+          "date": "Thu, 12 Nov 2026 10:26:34 -0500"
         },
         {
-          "title": "Russia and Ukraine agree to a prisoner exchange as talks end with no big breakthrough",
-          "link": "https://www.npr.org/2026/11/11/g-s1-152954/russia-ukraine-war-talks",
-          "date": "Wed, 11 Nov 2026 08:30:00 -0500"
+          "title": "Indonesia's VP resigns as his eligibility and academic credentials are questioned",
+          "link": "https://www.npr.org/2026/11/12/g-s1-153190/indonesias-vp-resigns-as-his-eligibility-and-academic-credentials-are-questioned",
+          "date": "Thu, 12 Nov 2026 09:22:50 -0500"
         },
         {
-          "title": "House effectively ends Hegseth impeachment. And, 3 men accused of plotting U.K. attacks",
-          "link": "https://www.npr.org/2026/11/11/g-s1-152949/up-first-newsletter-pete-hegseth-jim-jordan-iran-backed-trio-us-bases",
-          "date": "Wed, 11 Nov 2026 07:21:59 -0500"
+          "title": "Colom wins Mississippi Senate race. And, White House warns Dems over future probes",
+          "link": "https://www.npr.org/2026/11/12/g-s1-153171/up-first-newsletter-scott-colom-trump-democrats-ukraine-russia",
+          "date": "Thu, 12 Nov 2026 07:15:48 -0500"
         },
         {
-          "title": "An Iran-backed trio is accused of plotting attacks on a U.K. base hosting U.S. jets",
-          "link": "https://www.npr.org/2026/11/10/nx-s1-6036786/uk-iran-airbase-russia-spy",
-          "date": "Wed, 11 Nov 2026 05:02:54 -0500"
+          "title": "Former Ukrainian foreign minister discusses how to bridge gaps between Ukraine, Russia",
+          "link": "https://www.npr.org/2026/11/12/nx-s1-6037759/ukraine-ex-foreign-minister",
+          "date": "Thu, 12 Nov 2026 04:40:31 -0500"
         },
         {
-          "title": "Spain's workers hold a general strike over housing costs before national election",
-          "link": "https://www.npr.org/2026/11/11/nx-s1-6037314/spain-general-strike",
-          "date": "Wed, 11 Nov 2026 04:54:54 -0500"
+          "title": "Former U.S. Ambassador William Taylor discusses the latest Russia-Ukraine talks",
+          "link": "https://www.npr.org/2026/11/12/nx-s1-6037526/former-u-s-ambassador-william-taylor-discusses-the-latest-russia-ukraine-talks",
+          "date": "Thu, 12 Nov 2026 04:39:39 -0500"
         },
         {
-          "title": "Ebola tops 11,000 cases in Congo's deadliest outbreak",
-          "link": "https://www.npr.org/2026/11/11/nx-s1-6037304/ebola-congo-outbreak",
-          "date": "Wed, 11 Nov 2026 04:16:01 -0500"
+          "title": "U.S. officials set to meet with Putin, Zelenskyy following Abu Dhabi peace talks",
+          "link": "https://www.npr.org/2026/11/12/nx-s1-6037558/u-s-officials-set-to-meet-with-putin-zelenskyy-following-abu-dhabi-peace-talks",
+          "date": "Thu, 12 Nov 2026 04:38:46 -0500"
         },
         {
-          "title": "U.S. boycotts U.N. human rights review for second year running",
-          "link": "https://www.npr.org/2026/11/10/nx-s1-6034998/un-human-rights-us-geneva",
-          "date": "Tue, 10 Nov 2026 13:53:34 -0500"
+          "title": "Drought threatens Iraq's marshes, risking one of the oldest ways of life",
+          "link": "https://www.npr.org/2026/11/12/nx-s1-6026458/drought-threatens-iraqs-marshes-risking-one-of-the-oldest-ways-of-life",
+          "date": "Thu, 12 Nov 2026 04:31:34 -0500"
         },
         {
-          "title": "'Like gods reigning over humans': Many defectors see daughter of North Korea's Kim as heir apparent",
-          "link": "https://www.npr.org/2026/11/10/g-s1-152795/like-gods-reigning-over-humans-many-defectors-see-daughter-of-north-koreas-kim-as-heir-apparent",
-          "date": "Tue, 10 Nov 2026 09:16:53 -0500"
+          "title": "Aid groups call on Israel to allow shelters in Gaza amid a humanitarian emergency",
+          "link": "https://www.npr.org/2026/11/12/nx-s1-6035686/aid-groups-call-on-israel-to-allow-shelters-in-gaza-amid-a-humanitarian-emergency",
+          "date": "Thu, 12 Nov 2026 04:29:50 -0500"
         }
       ]
     },
@@ -147,6 +100,11 @@
       "name": "The Guardian · World",
       "url": "https://www.theguardian.com/world/rss",
       "items": [
+        {
+          "title": "Zimbabwean author Simbarashe Kundizeza cleared of using AI to write prize-winning story",
+          "link": "https://www.theguardian.com/books/2026/nov/12/zimbabwean-author-simbarashe-kundizeza-cleared-ai-caine-prize-winning-story",
+          "date": "Thu, 12 Nov 2026 13:14:38 GMT"
+        },
         {
           "title": "Lewis Hamilton visits Egypt’s Rafah crossing and Gaza aid facilities",
           "link": "https://www.theguardian.com/world/2026/nov/10/lewis-hamilton-egypt-rafah-crossing-gaza-aid-facilities",
@@ -166,11 +124,6 @@
           "title": "Kenyan doomsday sect leader jailed for 200 years for murder of 190 children",
           "link": "https://www.theguardian.com/world/2026/nov/06/kenyan-doomsday-sect-leader-jailed-murders-paul-mackenzie",
           "date": "Fri, 06 Nov 2026 15:08:43 GMT"
-        },
-        {
-          "title": "ANC faces bruising defeat in South African local elections with 80% of ballots counted",
-          "link": "https://www.theguardian.com/world/2026/nov/06/anc-faces-defeat-south-african-local-elections",
-          "date": "Fri, 06 Nov 2026 12:48:37 GMT"
         },
         {
           "title": "Two skulls likely belonging to enslaved people returned to Brazil after Harvard used them in eugenics studies",
