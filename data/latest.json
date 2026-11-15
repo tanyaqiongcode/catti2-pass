@@ -1,11 +1,21 @@
 {
-  "updated": "2026-11-14T06:49:29.625151+00:00",
+  "updated": "2026-11-15T06:54:02.924400+00:00",
   "feeds": [
     {
       "id": "bbc-globalnews",
       "name": "BBC Global News Podcast",
       "url": "https://downloads.bbc.co.uk/podcasts/worldservice/globalnews/rss.xml",
       "items": [
+        {
+          "title": "SpaceX makes history catching part of returning spacecraft",
+          "link": "http://www.bbc.co.uk/programmes/p0pn35d7",
+          "date": "Sun, 15 Nov 2026 04:59:00 +0000"
+        },
+        {
+          "title": "The Happy Pod: I've put women on the map with Antarctic record",
+          "link": "http://www.bbc.co.uk/programmes/p0pmw5pp",
+          "date": "Sat, 14 Nov 2026 12:00:00 +0000"
+        },
         {
           "title": "US airspace reopens after flights grounded for several hours",
           "link": "http://www.bbc.co.uk/programmes/p0pmzyrg",
@@ -35,16 +45,6 @@
           "title": "Russia-Ukraine talks: Prisoner release agreed",
           "link": "http://www.bbc.co.uk/programmes/p0pmgsdd",
           "date": "Wed, 11 Nov 2026 16:24:00 +0000"
-        },
-        {
-          "title": "US soldier arrested in UK on suspicion of spying for Russia",
-          "link": "http://www.bbc.co.uk/programmes/p0pmcskb",
-          "date": "Wed, 11 Nov 2026 05:27:00 +0000"
-        },
-        {
-          "title": "How US model agencies helped Epstein access victims",
-          "link": "http://www.bbc.co.uk/programmes/p0pm9szt",
-          "date": "Tue, 10 Nov 2026 15:47:00 +0000"
         }
       ]
     },
@@ -101,6 +101,11 @@
       "url": "https://feeds.npr.org/1004/rss.xml",
       "items": [
         {
+          "title": "Fuel crisis and protests pressure Chile's far-right president",
+          "link": "https://www.npr.org/2026/11/14/nx-s1-6040144/chile-protests-fuel-kast-students",
+          "date": "Sat, 14 Nov 2026 11:05:12 -0500"
+        },
+        {
           "title": "What's Trump's strategy now with Iran? To keep things as they are",
           "link": "https://www.npr.org/2026/11/13/g-s1-153578/whats-trumps-strategy-now-with-iran-to-keep-things-as-they-are",
           "date": "Fri, 13 Nov 2026 14:02:04 -0500"
@@ -134,11 +139,6 @@
           "title": "Former Ukrainian foreign minister discusses how to bridge gaps between Ukraine, Russia",
           "link": "https://www.npr.org/2026/11/12/nx-s1-6037759/ukraine-ex-foreign-minister",
           "date": "Thu, 12 Nov 2026 04:40:31 -0500"
-        },
-        {
-          "title": "Former U.S. Ambassador William Taylor discusses the latest Russia-Ukraine talks",
-          "link": "https://www.npr.org/2026/11/12/nx-s1-6037526/former-u-s-ambassador-william-taylor-discusses-the-latest-russia-ukraine-talks",
-          "date": "Thu, 12 Nov 2026 04:39:39 -0500"
         }
       ]
     },
@@ -173,6 +173,11 @@
           "date": "Fri, 06 Nov 2026 15:08:43 GMT"
         },
         {
+          "title": "Choking fires, deadly heat and devastating floods: 2026 in extreme weather",
+          "link": "https://www.theguardian.com/world/2026/nov/14/fires-heat-floods-extreme-weather-2026",
+          "date": "Sat, 14 Nov 2026 13:00:44 GMT"
+        },
+        {
           "title": "Storm Charles causes floods and flight cancellations across southern Europe",
           "link": "https://www.theguardian.com/environment/2026/nov/13/storm-charles-floods-flight-cancellations-southern-europe-weather",
           "date": "Fri, 13 Nov 2026 08:49:19 GMT"
@@ -181,11 +186,6 @@
           "title": "Two skulls likely belonging to enslaved people returned to Brazil after Harvard used them in eugenics studies",
           "link": "https://www.theguardian.com/news/2026/nov/11/harvard-skulls-repatriated-brazil",
           "date": "Wed, 11 Nov 2026 22:50:37 GMT"
-        },
-        {
-          "title": "Ex-member of radical Marxist group scales balcony, escapes house arrest in Argentina",
-          "link": "https://www.theguardian.com/world/2026/nov/11/red-brigades-leonardo-bertulazzi-escapes-house-arrest-argentina",
-          "date": "Wed, 11 Nov 2026 19:00:33 GMT"
         }
       ]
     }
