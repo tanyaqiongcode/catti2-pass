@@ -1,11 +1,26 @@
 {
-  "updated": "2026-11-17T08:13:24.630469+00:00",
+  "updated": "2026-11-18T07:46:58.232424+00:00",
   "feeds": [
     {
       "id": "bbc-globalnews",
       "name": "BBC Global News Podcast",
       "url": "https://downloads.bbc.co.uk/podcasts/worldservice/globalnews/rss.xml",
       "items": [
+        {
+          "title": "Nvidia rules out return for disgraced boss",
+          "link": "http://www.bbc.co.uk/programmes/p0pnjy0q",
+          "date": "Wed, 18 Nov 2026 05:26:00 +0000"
+        },
+        {
+          "title": "Special episode: Trump, Putin and Xi meeting",
+          "link": "http://www.bbc.co.uk/programmes/p0pnhq1p",
+          "date": "Tue, 17 Nov 2026 20:00:00 +0000"
+        },
+        {
+          "title": "Red carpet for Trump in Asia",
+          "link": "http://www.bbc.co.uk/programmes/p0pngj3s",
+          "date": "Tue, 17 Nov 2026 16:10:00 +0000"
+        },
         {
           "title": "OpenAI sued by California over rogue cyber attacks",
           "link": "http://www.bbc.co.uk/programmes/p0pnc231",
@@ -30,21 +45,6 @@
           "title": "SpaceX makes history catching part of returning spacecraft",
           "link": "http://www.bbc.co.uk/programmes/p0pn35d7",
           "date": "Sun, 15 Nov 2026 04:59:00 +0000"
-        },
-        {
-          "title": "The Happy Pod: I've put women on the map with Antarctic record",
-          "link": "http://www.bbc.co.uk/programmes/p0pmw5pp",
-          "date": "Sat, 14 Nov 2026 12:00:00 +0000"
-        },
-        {
-          "title": "US airspace reopens after flights grounded for several hours",
-          "link": "http://www.bbc.co.uk/programmes/p0pmzyrg",
-          "date": "Sat, 14 Nov 2026 04:41:00 +0000"
-        },
-        {
-          "title": "Microsoft outage: Millions affected in over 70 countries",
-          "link": "http://www.bbc.co.uk/programmes/p0pmwsp6",
-          "date": "Fri, 13 Nov 2026 15:51:00 +0000"
         }
       ]
     },
@@ -53,6 +53,11 @@
       "name": "CNN 10",
       "url": "https://feeds.megaphone.fm/WMHY2232473209",
       "items": [
+        {
+          "title": "Spacex’s Starship Makes History With Midair Catch Upon Return to Earth",
+          "link": "",
+          "date": "Tue, 17 Nov 2026 12:56:00 -0000"
+        },
         {
           "title": "A Rare Nationwide Ground Stop Brings All US Air Traffic to a Standstill",
           "link": "",
@@ -87,11 +92,6 @@
           "title": "How Did Viking Graffiti Get Inside One of the World’s Most Famous Mosques?",
           "link": "",
           "date": "Fri, 06 Nov 2026 15:45:00 -0000"
-        },
-        {
-          "title": "The Historic Firsts of the 2026 Midterm Election",
-          "link": "",
-          "date": "Thu, 05 Nov 2026 16:18:00 -0000"
         }
       ]
     },
@@ -101,6 +101,36 @@
       "url": "https://feeds.npr.org/1004/rss.xml",
       "items": [
         {
+          "title": "Xi said China would welcome American students for exchanges. What's the reality?",
+          "link": "https://www.npr.org/2026/11/17/nx-s1-6026589/xi-said-china-would-welcome-american-students-for-exchanges-whats-the-reality",
+          "date": "Tue, 17 Nov 2026 17:41:53 -0500"
+        },
+        {
+          "title": "Iran launches a third round of strikes on Bahrain, host of U.S. Navy's 5th Fleet",
+          "link": "https://www.npr.org/2026/11/17/nx-s1-6044255/us-iran-war-latest-bahrain",
+          "date": "Tue, 17 Nov 2026 13:34:31 -0500"
+        },
+        {
+          "title": "Trump is in Asia ahead of Xi, Putin summit. And, tech leaders want Huang back at Nvidia",
+          "link": "https://www.npr.org/2026/11/17/g-s1-153950/up-first-newsletter-faa-ground-stop-trump-asia-trip-nvidia-lindsay-clancy",
+          "date": "Tue, 17 Nov 2026 07:20:57 -0500"
+        },
+        {
+          "title": "Trump arrives in Philippines to kick off Asia trip",
+          "link": "https://www.npr.org/2026/11/17/nx-s1-6043702/trump-arrives-philippines",
+          "date": "Tue, 17 Nov 2026 05:43:55 -0500"
+        },
+        {
+          "title": "Ukraine strikes major Russian bridge with drones and missiles as aerial attacks escalate",
+          "link": "https://www.npr.org/2026/11/17/g-s1-153946/russia-ukraine-war",
+          "date": "Tue, 17 Nov 2026 04:50:45 -0500"
+        },
+        {
+          "title": "Trump to meet Chinese leader Xi Jinping and Russia's Vladimir Putin for joint summit",
+          "link": "https://www.npr.org/2026/11/17/nx-s1-6042448/trump-to-meet-chinese-leader-xi-jinping-and-russias-vladimir-putin-for-joint-summit",
+          "date": "Tue, 17 Nov 2026 04:46:00 -0500"
+        },
+        {
           "title": "Africa: Trading in yuan",
           "link": "https://www.npr.org/2026/11/16/nx-s1-6035000/africa-trading-in-yuan",
           "date": "Mon, 16 Nov 2026 18:49:35 -0500"
@@ -109,36 +139,6 @@
           "title": "U.N. talks seek to rein in 'killer robots' as fears over AI weapons grow",
           "link": "https://www.npr.org/2026/11/16/nx-s1-6042548/un-killer-robots-ai-weapons-drones",
           "date": "Mon, 16 Nov 2026 13:04:50 -0500"
-        },
-        {
-          "title": "FAA ground stop still affecting thousands of flights. And, Trump meets Xi, Putin in Asia",
-          "link": "https://www.npr.org/2026/11/16/g-s1-153841/up-first-newsletter-faa-ground-stop-democratic-leaders-congress-trump-asia-trip",
-          "date": "Mon, 16 Nov 2026 07:08:14 -0500"
-        },
-        {
-          "title": "Chris Van Hollen says he can beat Chuck Schumer. Here's his case",
-          "link": "https://www.npr.org/2026/11/16/nx-s1-6041687/chris-van-hollen-chuck-schumer-senate-leader",
-          "date": "Mon, 16 Nov 2026 06:39:14 -0500"
-        },
-        {
-          "title": "Trump heads to Asia to meet with Xi and Putin amid Nvidia fallout",
-          "link": "https://www.npr.org/2026/11/16/nx-s1-6041738/trump-xi-and-putin-china-nvidia",
-          "date": "Mon, 16 Nov 2026 05:00:00 -0500"
-        },
-        {
-          "title": "What to expect from Trump and Xi's upcoming meeting in China",
-          "link": "https://www.npr.org/2026/11/15/nx-s1-6038814/what-to-expect-from-trump-and-xis-upcoming-meeting-in-china",
-          "date": "Sun, 15 Nov 2026 17:11:26 -0500"
-        },
-        {
-          "title": "What's the real cost of fast fashion? Ask the people making your jeans",
-          "link": "https://www.npr.org/2026/11/15/nx-s1-6013327/sydney-sweeney-jeans-american-eagle-garment-industry",
-          "date": "Sun, 15 Nov 2026 17:07:55 -0500"
-        },
-        {
-          "title": "Fuel crisis and protests pressure Chile's far-right president",
-          "link": "https://www.npr.org/2026/11/14/nx-s1-6040144/chile-protests-fuel-kast-students",
-          "date": "Sat, 14 Nov 2026 11:05:12 -0500"
         }
       ]
     },
@@ -147,6 +147,11 @@
       "name": "The Guardian · World",
       "url": "https://www.theguardian.com/world/rss",
       "items": [
+        {
+          "title": "European Commission accused of sugarcoating figures to release funds to Egypt",
+          "link": "https://www.theguardian.com/world/2026/nov/18/european-commission-accused-sugarcoating-figures-egypt-loans",
+          "date": "Wed, 18 Nov 2026 05:00:32 GMT"
+        },
         {
           "title": "Five EU states announce plans for immigration ‘return hubs’ in Rwanda",
           "link": "https://www.theguardian.com/world/2026/nov/16/eu-states-immigration-return-hubs-rwanda",
@@ -168,24 +173,19 @@
           "date": "Thu, 12 Nov 2026 13:14:38 GMT"
         },
         {
-          "title": "Lewis Hamilton visits Egypt’s Rafah crossing and Gaza aid facilities",
-          "link": "https://www.theguardian.com/world/2026/nov/10/lewis-hamilton-egypt-rafah-crossing-gaza-aid-facilities",
-          "date": "Tue, 10 Nov 2026 15:39:26 GMT"
+          "title": "Caribbean nations fear economic impact of shuttering citizenship program after EU threats",
+          "link": "https://www.theguardian.com/world/2026/nov/17/st-kitts-nevis-citizenship-investment",
+          "date": "Tue, 17 Nov 2026 21:49:29 GMT"
         },
         {
-          "title": "European-made pesticides named in 1,605 poisoning reports in Brazil last year",
-          "link": "https://www.theguardian.com/environment/2026/nov/17/european-made-pesticides-named-1605-brazil-poisoning-reports",
-          "date": "Tue, 17 Nov 2026 06:00:05 GMT"
+          "title": "Isolated Brazilian tribe emerges amid alarm over threats to group’s way of life",
+          "link": "https://www.theguardian.com/world/2026/nov/17/brazil-amazon-isolated-indigenous-people",
+          "date": "Tue, 17 Nov 2026 21:40:56 GMT"
         },
         {
-          "title": "Delaware hit by rare November tornado",
-          "link": "https://www.theguardian.com/environment/2026/nov/16/delaware-hit-by-rare-november-tornado",
-          "date": "Mon, 16 Nov 2026 09:27:06 GMT"
-        },
-        {
-          "title": "‘The blood of these brothers cries out’: Pope Leo demands justice for people killed protecting the Amazon",
-          "link": "https://www.theguardian.com/world/2026/nov/16/pope-leo-speech-peru-justice-for-amazon-activists-environment",
-          "date": "Mon, 16 Nov 2026 01:13:44 GMT"
+          "title": "Eight-year-old Haitian boy returns home after release from ICE custody",
+          "link": "https://www.theguardian.com/us-news/2026/nov/17/haitian-child-ice-custody-release",
+          "date": "Tue, 17 Nov 2026 20:59:56 GMT"
         }
       ]
     }
