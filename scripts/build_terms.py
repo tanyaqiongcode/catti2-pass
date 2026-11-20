@@ -10,6 +10,7 @@ import json
 import re
 import sys
 import zipfile
+from datetime import date
 from pathlib import Path
 
 CATTI_DIR = Path.home() / "Desktop/学习/CATTI"
@@ -140,7 +141,7 @@ def main():
 
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(
-        json.dumps({"updated": "2026-10-30", "count": len(terms), "terms": terms}, ensure_ascii=False, indent=1) + "\n",
+        json.dumps({"updated": date.today().isoformat(), "count": len(terms), "terms": terms}, ensure_ascii=False, indent=1) + "\n",
         encoding="utf-8",
     )
     print(f"wrote {OUT} with {len(terms)} terms (previous: {old_count if old_count is not None else 'n/a'})")
