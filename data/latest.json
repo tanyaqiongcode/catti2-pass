@@ -1,11 +1,21 @@
 {
-  "updated": "2026-11-19T07:42:26.644073+00:00",
+  "updated": "2026-11-20T07:34:11.636322+00:00",
   "feeds": [
     {
       "id": "bbc-globalnews",
       "name": "BBC Global News Podcast",
       "url": "https://downloads.bbc.co.uk/podcasts/worldservice/globalnews/rss.xml",
       "items": [
+        {
+          "title": "Abusers convicted in Joanne Young case echoing Pelicot",
+          "link": "http://www.bbc.co.uk/programmes/p0pnyk0h",
+          "date": "Fri, 20 Nov 2026 05:33:00 +0000"
+        },
+        {
+          "title": "UN court says Myanmar committed genocide against Rohingyas",
+          "link": "http://www.bbc.co.uk/programmes/p0pnw5rb",
+          "date": "Thu, 19 Nov 2026 16:03:00 +0000"
+        },
         {
           "title": "BBC reports from Ukraine's undergound frontier",
           "link": "http://www.bbc.co.uk/programmes/p0pnrndj",
@@ -35,16 +45,6 @@
           "title": "OpenAI sued by California over rogue cyber attacks",
           "link": "http://www.bbc.co.uk/programmes/p0pnc231",
           "date": "Tue, 17 Nov 2026 05:35:00 +0000"
-        },
-        {
-          "title": "Crimea Kerch Bridge hit in a huge Ukrainian drone attack",
-          "link": "http://www.bbc.co.uk/programmes/p0pn98q4",
-          "date": "Mon, 16 Nov 2026 16:25:00 +0000"
-        },
-        {
-          "title": "Government forces retreat in Yemen",
-          "link": "http://www.bbc.co.uk/programmes/p0pn65z8",
-          "date": "Mon, 16 Nov 2026 05:48:00 +0000"
         }
       ]
     },
@@ -53,6 +53,11 @@
       "name": "CNN 10",
       "url": "https://feeds.megaphone.fm/WMHY2232473209",
       "items": [
+        {
+          "title": "How a California Freeway Ban Could Impact a Self-Driving Car Company",
+          "link": "",
+          "date": "Thu, 19 Nov 2026 14:25:00 -0000"
+        },
         {
           "title": "A New Octopus Study Spotlights Nature’s Most Extreme Escape Artists",
           "link": "",
@@ -87,11 +92,6 @@
           "title": "Meat Is Scarce in North Korea. So Why the BBQ Boom?",
           "link": "",
           "date": "Tue, 10 Nov 2026 15:12:00 -0000"
-        },
-        {
-          "title": "Millions Celebrate Diwali: The Festival of Lights",
-          "link": "",
-          "date": "Mon, 09 Nov 2026 12:49:00 -0000"
         }
       ]
     },
@@ -100,6 +100,31 @@
       "name": "NPR World",
       "url": "https://feeds.npr.org/1004/rss.xml",
       "items": [
+        {
+          "title": "The U.N.'s top court rules Myanmar committed genocide against the Rohingya",
+          "link": "https://www.npr.org/2026/11/19/g-s1-154340/un-court-myanmar-genocide-rohingya",
+          "date": "Thu, 19 Nov 2026 07:29:41 -0500"
+        },
+        {
+          "title": "Anthropic raises more than $100B in IPO. And, Dems nominate Jeffries for House speaker",
+          "link": "https://www.npr.org/2026/11/19/g-s1-154344/up-first-newsletter-house-democrats-trump-xi-putin-anthropic",
+          "date": "Thu, 19 Nov 2026 07:26:01 -0500"
+        },
+        {
+          "title": "Top House Democrat questions what Trump accomplished in Xi-Putin summit",
+          "link": "https://www.npr.org/2026/11/19/nx-s1-6046487/gregory-meeks-trump-xi-putin-summit",
+          "date": "Thu, 19 Nov 2026 06:20:37 -0500"
+        },
+        {
+          "title": "Iran's attacks on ships in the Strait of Hormuz escalate",
+          "link": "https://www.npr.org/2026/11/19/nx-s1-6044206/irans-attacks-on-ships-in-the-strait-of-hormuz-escalate",
+          "date": "Thu, 19 Nov 2026 04:46:24 -0500"
+        },
+        {
+          "title": "Trump, Xi and Putin meet as global alliances hang in the balance",
+          "link": "https://www.npr.org/2026/11/18/nx-s1-6040432/trump-xi-and-putin-shenzhen-china-russia-usa",
+          "date": "Thu, 19 Nov 2026 04:44:40 -0500"
+        },
         {
           "title": "Karl Kani dressed hip-hop royalty for decades. Now he's telling his own story",
           "link": "https://www.npr.org/2026/11/18/g-s1-154227/karl-kani-a-life-by-design",
@@ -114,31 +139,6 @@
           "title": "Trump to meet with Russia's Putin and China's Xi for historic joint meeting",
           "link": "https://www.npr.org/2026/11/18/nx-s1-6027645/trump-to-meet-with-russias-putin-and-chinas-xi-for-historic-joint-meeting",
           "date": "Wed, 18 Nov 2026 06:57:10 -0500"
-        },
-        {
-          "title": "Former U.S. ambassador on Trump's joint summit with leaders of China and Russia",
-          "link": "https://www.npr.org/2026/11/18/nx-s1-6044067/former-u-s-ambassador-on-trumps-joint-summit-with-leaders-of-china-and-russia",
-          "date": "Wed, 18 Nov 2026 06:57:06 -0500"
-        },
-        {
-          "title": "Greetings from a Berlin square, where an artist's statue watches over children at play",
-          "link": "https://www.npr.org/2026/11/18/nx-s1-6043021/berlin-kollwitzplatz-statue",
-          "date": "Wed, 18 Nov 2026 06:00:00 -0500"
-        },
-        {
-          "title": "Trump lands in China with key meetings with Xi and Putin on the agenda",
-          "link": "https://www.npr.org/2026/11/18/nx-s1-6045518/trump-china-xi-putin",
-          "date": "Wed, 18 Nov 2026 05:32:03 -0500"
-        },
-        {
-          "title": "They tried to torture him into leaving Iraq. He refused to abandon the nature he protects",
-          "link": "https://www.npr.org/2026/11/18/nx-s1-6043167/iraq-environmentalist-marshes-iran-backed-militia-kidnapped",
-          "date": "Wed, 18 Nov 2026 05:00:00 -0500"
-        },
-        {
-          "title": "China and the U.S. are the world's biggest polluters. And the U.S. is falling behind",
-          "link": "https://www.npr.org/2026/11/18/nx-s1-6044646/china-and-the-u-s-emissions-cop31-antalya",
-          "date": "Wed, 18 Nov 2026 05:00:00 -0500"
         }
       ]
     },
@@ -147,6 +147,11 @@
       "name": "The Guardian · World",
       "url": "https://www.theguardian.com/world/rss",
       "items": [
+        {
+          "title": "Race to replant five South African baobabs after export blocked",
+          "link": "https://www.theguardian.com/environment/2026/nov/19/baobab-five-trees-south-africa-dug-up-export-blocked-georgia-aoe",
+          "date": "Thu, 19 Nov 2026 11:03:24 GMT"
+        },
         {
           "title": "One in four women globally unable to refuse sex within marriage, says UN",
           "link": "https://www.theguardian.com/global-development/2026/nov/19/women-girls-rights-rape-sexual-violence-africa-marriage-unfpa",
@@ -168,9 +173,9 @@
           "date": "Tue, 17 Nov 2026 01:10:59 GMT"
         },
         {
-          "title": "US basketball player arrested with 75lb of marijuana at Nigerian airport, say authorities",
-          "link": "https://www.theguardian.com/sport/2026/nov/16/us-basketball-player-arrested-with-75lb-of-marijuana-at-nigerian-airport-say-authorities",
-          "date": "Mon, 16 Nov 2026 13:16:36 GMT"
+          "title": "Race to be next UN secretary general exposes divisions among world powers",
+          "link": "https://www.theguardian.com/world/2026/nov/20/race-to-be-next-un-secretary-general-exposes-divisions-among-world-powers",
+          "date": "Fri, 20 Nov 2026 05:00:24 GMT"
         },
         {
           "title": "Florida pastor found guilty over 2021 assassination of Haitian president",
@@ -181,11 +186,6 @@
           "title": "Hegseth uses Venezuela visit to boast of Maduro’s capture by US military",
           "link": "https://www.theguardian.com/world/2026/nov/18/pete-hegseth-venezuela-nicolas-maduro-military",
           "date": "Wed, 18 Nov 2026 20:24:19 GMT"
-        },
-        {
-          "title": "Caribbean nations fear economic impact of shuttering citizenship program after EU threats",
-          "link": "https://www.theguardian.com/world/2026/nov/17/st-kitts-nevis-citizenship-investment",
-          "date": "Tue, 17 Nov 2026 21:49:29 GMT"
         }
       ]
     }
