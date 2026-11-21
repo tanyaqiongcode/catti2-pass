@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T07:34:11.636322+00:00",
+  "updated": "2026-11-21T07:29:52.930995+00:00",
   "feeds": [
     {
       "id": "bbc-globalnews",
@@ -46,13 +46,19 @@
           "link": "http://www.bbc.co.uk/programmes/p0pnc231",
           "date": "Tue, 17 Nov 2026 05:35:00 +0000"
         }
-      ]
+      ],
+      "fetched_at": null
     },
     {
       "id": "cnn10",
       "name": "CNN 10",
       "url": "https://feeds.megaphone.fm/WMHY2232473209",
       "items": [
+        {
+          "title": "26 Years Later: The US Loses Its Measles-Free Status",
+          "link": "",
+          "date": "Fri, 20 Nov 2026 12:38:00 -0000"
+        },
         {
           "title": "How a California Freeway Ban Could Impact a Self-Driving Car Company",
           "link": "",
@@ -87,19 +93,40 @@
           "title": "Why a History-Making Ocean Liner Is Being Sunk on Purpose",
           "link": "",
           "date": "Wed, 11 Nov 2026 14:51:00 -0000"
-        },
-        {
-          "title": "Meat Is Scarce in North Korea. So Why the BBQ Boom?",
-          "link": "",
-          "date": "Tue, 10 Nov 2026 15:12:00 -0000"
         }
-      ]
+      ],
+      "fetched_at": "2026-11-21T07:29:52.930995+00:00"
     },
     {
       "id": "npr-world",
       "name": "NPR World",
       "url": "https://feeds.npr.org/1004/rss.xml",
       "items": [
+        {
+          "title": "Another day of survival for a family in Ukraine",
+          "link": "https://www.npr.org/2026/11/20/nx-s1-6042206/another-day-of-survival-for-a-family-in-ukraine",
+          "date": "Fri, 20 Nov 2026 16:32:31 -0500"
+        },
+        {
+          "title": "Trump touts meeting with Xi and Putin but offers little results",
+          "link": "https://www.npr.org/2026/11/20/nx-s1-6047594/trump-asia-trip-xi-putin-press-conference",
+          "date": "Fri, 20 Nov 2026 10:00:00 -0500"
+        },
+        {
+          "title": "Dems aim to block Iran war funding. And, Army delays lead azide detonation in Iowa",
+          "link": "https://www.npr.org/2026/11/20/g-s1-154582/up-first-newsletter-democrats-iran-war-trump-xi-jinping-iowa-army",
+          "date": "Fri, 20 Nov 2026 07:04:57 -0500"
+        },
+        {
+          "title": "GOP Sen. Johnson rejects tying government funding to an end to the Iran war",
+          "link": "https://www.npr.org/2026/11/20/nx-s1-6047473/iran-war-funding-congress",
+          "date": "Fri, 20 Nov 2026 06:37:35 -0500"
+        },
+        {
+          "title": "The U.K. and EU hold a rare summit to strengthen ties",
+          "link": "https://www.npr.org/2026/11/20/g-s1-154576/uk-eu-summit",
+          "date": "Fri, 20 Nov 2026 04:14:41 -0500"
+        },
         {
           "title": "The U.N.'s top court rules Myanmar committed genocide against the Rohingya",
           "link": "https://www.npr.org/2026/11/19/g-s1-154340/un-court-myanmar-genocide-rohingya",
@@ -114,39 +141,20 @@
           "title": "Top House Democrat questions what Trump accomplished in Xi-Putin summit",
           "link": "https://www.npr.org/2026/11/19/nx-s1-6046487/gregory-meeks-trump-xi-putin-summit",
           "date": "Thu, 19 Nov 2026 06:20:37 -0500"
-        },
-        {
-          "title": "Iran's attacks on ships in the Strait of Hormuz escalate",
-          "link": "https://www.npr.org/2026/11/19/nx-s1-6044206/irans-attacks-on-ships-in-the-strait-of-hormuz-escalate",
-          "date": "Thu, 19 Nov 2026 04:46:24 -0500"
-        },
-        {
-          "title": "Trump, Xi and Putin meet as global alliances hang in the balance",
-          "link": "https://www.npr.org/2026/11/18/nx-s1-6040432/trump-xi-and-putin-shenzhen-china-russia-usa",
-          "date": "Thu, 19 Nov 2026 04:44:40 -0500"
-        },
-        {
-          "title": "Karl Kani dressed hip-hop royalty for decades. Now he's telling his own story",
-          "link": "https://www.npr.org/2026/11/18/g-s1-154227/karl-kani-a-life-by-design",
-          "date": "Wed, 18 Nov 2026 13:15:59 -0500"
-        },
-        {
-          "title": "Mary Peltola flips Alaska's Senate seat. And, Nvidia won't reinstate Jensen Huang",
-          "link": "https://www.npr.org/2026/11/18/g-s1-154145/up-first-newsletter-mary-peltola-alaska-trump-asia-nvidia-tech-issues-ai",
-          "date": "Wed, 18 Nov 2026 07:14:28 -0500"
-        },
-        {
-          "title": "Trump to meet with Russia's Putin and China's Xi for historic joint meeting",
-          "link": "https://www.npr.org/2026/11/18/nx-s1-6027645/trump-to-meet-with-russias-putin-and-chinas-xi-for-historic-joint-meeting",
-          "date": "Wed, 18 Nov 2026 06:57:10 -0500"
         }
-      ]
+      ],
+      "fetched_at": "2026-11-21T07:29:52.930995+00:00"
     },
     {
       "id": "guardian-world",
       "name": "The Guardian · World",
       "url": "https://www.theguardian.com/world/rss",
       "items": [
+        {
+          "title": "California’s coastal communities on alert as biggest waves in years hit state",
+          "link": "https://www.theguardian.com/us-news/2026/nov/20/california-coastal-communities-alert-big-waves-hit-state",
+          "date": "Fri, 20 Nov 2026 09:03:20 GMT"
+        },
         {
           "title": "Race to replant five South African baobabs after export blocked",
           "link": "https://www.theguardian.com/environment/2026/nov/19/baobab-five-trees-south-africa-dug-up-export-blocked-georgia-aoe",
@@ -168,9 +176,9 @@
           "date": "Wed, 18 Nov 2026 05:00:32 GMT"
         },
         {
-          "title": "Five EU states announce plans for immigration ‘return hubs’ in Rwanda",
-          "link": "https://www.theguardian.com/world/2026/nov/16/eu-states-immigration-return-hubs-rwanda",
-          "date": "Tue, 17 Nov 2026 01:10:59 GMT"
+          "title": "‘Weak and dizzy’: the secretive ICE force-feeding tactics that ended a Cuban father’s hunger strike",
+          "link": "https://www.theguardian.com/us-news/2026/nov/20/ice-cuba-hunger-strike-force-feeding",
+          "date": "Fri, 20 Nov 2026 11:00:31 GMT"
         },
         {
           "title": "Race to be next UN secretary general exposes divisions among world powers",
@@ -181,13 +189,9 @@
           "title": "Florida pastor found guilty over 2021 assassination of Haitian president",
           "link": "https://www.theguardian.com/us-news/2026/nov/18/florida-pastor-guilty-haiti-president-assassination",
           "date": "Wed, 18 Nov 2026 22:31:41 GMT"
-        },
-        {
-          "title": "Hegseth uses Venezuela visit to boast of Maduro’s capture by US military",
-          "link": "https://www.theguardian.com/world/2026/nov/18/pete-hegseth-venezuela-nicolas-maduro-military",
-          "date": "Wed, 18 Nov 2026 20:24:19 GMT"
         }
-      ]
+      ],
+      "fetched_at": "2026-11-21T07:29:52.930995+00:00"
     }
   ]
 }
