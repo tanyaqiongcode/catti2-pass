@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T07:29:52.930995+00:00",
+  "updated": "2026-11-22T07:11:30.746975+00:00",
   "feeds": [
     {
       "id": "bbc-globalnews",
@@ -95,7 +95,7 @@
           "date": "Wed, 11 Nov 2026 14:51:00 -0000"
         }
       ],
-      "fetched_at": "2026-11-21T07:29:52.930995+00:00"
+      "fetched_at": "2026-11-22T07:11:30.746975+00:00"
     },
     {
       "id": "npr-world",
@@ -103,47 +103,47 @@
       "url": "https://feeds.npr.org/1004/rss.xml",
       "items": [
         {
-          "title": "Another day of survival for a family in Ukraine",
-          "link": "https://www.npr.org/2026/11/20/nx-s1-6042206/another-day-of-survival-for-a-family-in-ukraine",
-          "date": "Fri, 20 Nov 2026 16:32:31 -0500"
+          "title": "What did Xi Jinping get from the bear hug with Trump at the Shenzhen summit?",
+          "link": "https://www.npr.org/2026/11/21/nx-s1-6048741/what-did-xi-jinping-get-from-the-bear-hug-with-trump-at-the-shenzhen-summit",
+          "date": "Sat, 21 Nov 2026 17:01:42 -0500"
         },
         {
-          "title": "Trump touts meeting with Xi and Putin but offers little results",
-          "link": "https://www.npr.org/2026/11/20/nx-s1-6047594/trump-asia-trip-xi-putin-press-conference",
-          "date": "Fri, 20 Nov 2026 10:00:00 -0500"
+          "title": "Highlights and challenges from covering an historic month in South America",
+          "link": "https://www.npr.org/2026/11/21/nx-s1-6044647/highlights-and-challenges-from-covering-an-historic-month-in-south-america",
+          "date": "Sat, 21 Nov 2026 17:01:35 -0500"
         },
         {
-          "title": "Dems aim to block Iran war funding. And, Army delays lead azide detonation in Iowa",
-          "link": "https://www.npr.org/2026/11/20/g-s1-154582/up-first-newsletter-democrats-iran-war-trump-xi-jinping-iowa-army",
-          "date": "Fri, 20 Nov 2026 07:04:57 -0500"
+          "title": "A grieving family in Lebanon returns to their village",
+          "link": "https://www.npr.org/2026/11/21/nx-s1-6012085/a-grieving-family-in-lebanon-returns-to-their-village",
+          "date": "Sat, 21 Nov 2026 17:01:32 -0500"
         },
         {
-          "title": "GOP Sen. Johnson rejects tying government funding to an end to the Iran war",
-          "link": "https://www.npr.org/2026/11/20/nx-s1-6047473/iran-war-funding-congress",
-          "date": "Fri, 20 Nov 2026 06:37:35 -0500"
+          "title": "Cartel leader captured in northern Mexico in a bloody firefight that left 11 dead",
+          "link": "https://www.npr.org/2026/11/21/nx-s1-6049672/cartel-boss-el-chapo-isidro-detained",
+          "date": "Sat, 21 Nov 2026 13:08:55 -0500"
         },
         {
-          "title": "The U.K. and EU hold a rare summit to strengthen ties",
-          "link": "https://www.npr.org/2026/11/20/g-s1-154576/uk-eu-summit",
-          "date": "Fri, 20 Nov 2026 04:14:41 -0500"
+          "title": "Killer robots: U.N. talks fall short of hopes for legally binding rules",
+          "link": "https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones",
+          "date": "Sat, 21 Nov 2026 09:18:17 -0500"
         },
         {
-          "title": "The U.N.'s top court rules Myanmar committed genocide against the Rohingya",
-          "link": "https://www.npr.org/2026/11/19/g-s1-154340/un-court-myanmar-genocide-rohingya",
-          "date": "Thu, 19 Nov 2026 07:29:41 -0500"
+          "title": "Military analyst Phillips O'Brien on Ukraine and Europe being left out of Trump's talks",
+          "link": "https://www.npr.org/2026/11/21/nx-s1-6047379/military-analyst-phillips-obrien-on-ukraine-and-europe-being-left-out-of-trumps-talks",
+          "date": "Sat, 21 Nov 2026 07:40:18 -0500"
         },
         {
-          "title": "Anthropic raises more than $100B in IPO. And, Dems nominate Jeffries for House speaker",
-          "link": "https://www.npr.org/2026/11/19/g-s1-154344/up-first-newsletter-house-democrats-trump-xi-putin-anthropic",
-          "date": "Thu, 19 Nov 2026 07:26:01 -0500"
+          "title": "Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI",
+          "link": "https://www.npr.org/2026/11/21/g-s1-154922/anthropic-worker-claims-to-have-solved-a-holy-grail-of-math-problems-with-the-help-of-ai",
+          "date": "Sat, 21 Nov 2026 07:30:16 -0500"
         },
         {
-          "title": "Top House Democrat questions what Trump accomplished in Xi-Putin summit",
-          "link": "https://www.npr.org/2026/11/19/nx-s1-6046487/gregory-meeks-trump-xi-putin-summit",
-          "date": "Thu, 19 Nov 2026 06:20:37 -0500"
+          "title": "Nations at UN talks on AI killer robots agree to more talks but no firm commitment to rein them in",
+          "link": "https://www.npr.org/2026/11/21/g-s1-154914/nations-at-un-talks-on-ai-killer-robots-agree-to-more-talks-but-no-firm-commitment-to-rein-them-in",
+          "date": "Sat, 21 Nov 2026 03:08:01 -0500"
         }
       ],
-      "fetched_at": "2026-11-21T07:29:52.930995+00:00"
+      "fetched_at": "2026-11-22T07:11:30.746975+00:00"
     },
     {
       "id": "guardian-world",
@@ -176,22 +176,22 @@
           "date": "Wed, 18 Nov 2026 05:00:32 GMT"
         },
         {
+          "title": "Alleged Mexican drug cartel boss ‘El Chapo Isidro’ arrested in special forces raid",
+          "link": "https://www.theguardian.com/world/2026/nov/21/alleged-mexican-drug-cartel-boss-el-chapo-isidro-meza-flores-arrested",
+          "date": "Sat, 21 Nov 2026 17:46:55 GMT"
+        },
+        {
+          "title": "Haitians excited but uneasy as El Salvador troops fight gangs",
+          "link": "https://www.theguardian.com/world/2026/nov/21/excitement-unease-haiti-el-salvador-troops-gangs-war-bukele",
+          "date": "Sat, 21 Nov 2026 11:00:57 GMT"
+        },
+        {
           "title": "‘Weak and dizzy’: the secretive ICE force-feeding tactics that ended a Cuban father’s hunger strike",
           "link": "https://www.theguardian.com/us-news/2026/nov/20/ice-cuba-hunger-strike-force-feeding",
           "date": "Fri, 20 Nov 2026 11:00:31 GMT"
-        },
-        {
-          "title": "Race to be next UN secretary general exposes divisions among world powers",
-          "link": "https://www.theguardian.com/world/2026/nov/20/race-to-be-next-un-secretary-general-exposes-divisions-among-world-powers",
-          "date": "Fri, 20 Nov 2026 05:00:24 GMT"
-        },
-        {
-          "title": "Florida pastor found guilty over 2021 assassination of Haitian president",
-          "link": "https://www.theguardian.com/us-news/2026/nov/18/florida-pastor-guilty-haiti-president-assassination",
-          "date": "Wed, 18 Nov 2026 22:31:41 GMT"
         }
       ],
-      "fetched_at": "2026-11-21T07:29:52.930995+00:00"
+      "fetched_at": "2026-11-22T07:11:30.746975+00:00"
     }
   ]
 }
