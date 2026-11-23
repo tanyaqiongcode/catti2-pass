@@ -1,11 +1,41 @@
 {
-  "updated": "2026-11-22T07:11:30.746975+00:00",
+  "updated": "2026-11-23T07:56:51.638431+00:00",
   "feeds": [
     {
       "id": "bbc-globalnews",
       "name": "BBC Global News Podcast",
       "url": "https://downloads.bbc.co.uk/podcasts/worldservice/globalnews/rss.xml",
       "items": [
+        {
+          "title": "COP31 in Turkey ends without a deal",
+          "link": "http://www.bbc.co.uk/programmes/p0ppdfkn",
+          "date": "Mon, 23 Nov 2026 05:48:00 +0000"
+        },
+        {
+          "title": "The Global Story: AI can imitate a human. But can it think like one?",
+          "link": "http://www.bbc.co.uk/programmes/p0pp0406",
+          "date": "Sun, 22 Nov 2026 20:00:00 +0000"
+        },
+        {
+          "title": "Deadlock at UN climate summit in Turkey",
+          "link": "http://www.bbc.co.uk/programmes/p0pp9hxv",
+          "date": "Sun, 22 Nov 2026 04:48:00 +0000"
+        },
+        {
+          "title": "The Happy Pod: The 'amazing’ device that controls Tourette's",
+          "link": "http://www.bbc.co.uk/programmes/p0pp4d5y",
+          "date": "Sat, 21 Nov 2026 12:00:00 +0000"
+        },
+        {
+          "title": "Man found guilty of starting deadly LA wildfire",
+          "link": "http://www.bbc.co.uk/programmes/p0pp66wy",
+          "date": "Sat, 21 Nov 2026 05:00:00 +0000"
+        },
+        {
+          "title": "UK agrees deal on closer cooperation with EU",
+          "link": "http://www.bbc.co.uk/programmes/p0pp3pln",
+          "date": "Fri, 20 Nov 2026 15:29:00 +0000"
+        },
         {
           "title": "Abusers convicted in Joanne Young case echoing Pelicot",
           "link": "http://www.bbc.co.uk/programmes/p0pnyk0h",
@@ -15,39 +45,9 @@
           "title": "UN court says Myanmar committed genocide against Rohingyas",
           "link": "http://www.bbc.co.uk/programmes/p0pnw5rb",
           "date": "Thu, 19 Nov 2026 16:03:00 +0000"
-        },
-        {
-          "title": "BBC reports from Ukraine's undergound frontier",
-          "link": "http://www.bbc.co.uk/programmes/p0pnrndj",
-          "date": "Thu, 19 Nov 2026 05:19:00 +0000"
-        },
-        {
-          "title": "Trump, Xi and Putin meet in China",
-          "link": "http://www.bbc.co.uk/programmes/p0pnndk4",
-          "date": "Wed, 18 Nov 2026 15:43:00 +0000"
-        },
-        {
-          "title": "Nvidia rules out return for disgraced boss",
-          "link": "http://www.bbc.co.uk/programmes/p0pnjy0q",
-          "date": "Wed, 18 Nov 2026 05:26:00 +0000"
-        },
-        {
-          "title": "Special episode: Trump, Putin and Xi meeting",
-          "link": "http://www.bbc.co.uk/programmes/p0pnhq1p",
-          "date": "Tue, 17 Nov 2026 20:00:00 +0000"
-        },
-        {
-          "title": "Red carpet for Trump in Asia",
-          "link": "http://www.bbc.co.uk/programmes/p0pngj3s",
-          "date": "Tue, 17 Nov 2026 16:10:00 +0000"
-        },
-        {
-          "title": "OpenAI sued by California over rogue cyber attacks",
-          "link": "http://www.bbc.co.uk/programmes/p0pnc231",
-          "date": "Tue, 17 Nov 2026 05:35:00 +0000"
         }
       ],
-      "fetched_at": null
+      "fetched_at": "2026-11-23T07:56:51.638431+00:00"
     },
     {
       "id": "cnn10",
@@ -95,13 +95,33 @@
           "date": "Wed, 11 Nov 2026 14:51:00 -0000"
         }
       ],
-      "fetched_at": "2026-11-22T07:11:30.746975+00:00"
+      "fetched_at": "2026-11-23T07:56:51.638431+00:00"
     },
     {
       "id": "npr-world",
       "name": "NPR World",
       "url": "https://feeds.npr.org/1004/rss.xml",
       "items": [
+        {
+          "title": "Ukraine war spilling into NATO territory",
+          "link": "https://www.npr.org/2026/11/22/nx-s1-6050236/ukraine-war-spilling-into-nato-territory",
+          "date": "Sun, 22 Nov 2026 17:40:22 -0500"
+        },
+        {
+          "title": "Luxury development planned on land some Albanians say is theirs, not Jared Kushner's",
+          "link": "https://www.npr.org/2026/11/22/nx-s1-6012022/luxury-development-planned-on-land-some-albanians-say-is-theirs-not-jared-kushners",
+          "date": "Sun, 22 Nov 2026 17:39:47 -0500"
+        },
+        {
+          "title": "Lebanese villagers return to wrecked homes as the Israeli army pulls back",
+          "link": "https://www.npr.org/2026/11/22/nx-s1-6048710/lebanon-israel-army-conflict-homes",
+          "date": "Sun, 22 Nov 2026 12:44:52 -0500"
+        },
+        {
+          "title": "Climate change talks fall apart in final hours over fossil fuels",
+          "link": "https://www.npr.org/2026/11/22/nx-s1-6046195/cop31-climate-talks-close-disappointment",
+          "date": "Sun, 22 Nov 2026 11:33:22 -0500"
+        },
         {
           "title": "What did Xi Jinping get from the bear hug with Trump at the Shenzhen summit?",
           "link": "https://www.npr.org/2026/11/21/nx-s1-6048741/what-did-xi-jinping-get-from-the-bear-hug-with-trump-at-the-shenzhen-summit",
@@ -121,35 +141,20 @@
           "title": "Cartel leader captured in northern Mexico in a bloody firefight that left 11 dead",
           "link": "https://www.npr.org/2026/11/21/nx-s1-6049672/cartel-boss-el-chapo-isidro-detained",
           "date": "Sat, 21 Nov 2026 13:08:55 -0500"
-        },
-        {
-          "title": "Killer robots: U.N. talks fall short of hopes for legally binding rules",
-          "link": "https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones",
-          "date": "Sat, 21 Nov 2026 09:18:17 -0500"
-        },
-        {
-          "title": "Military analyst Phillips O'Brien on Ukraine and Europe being left out of Trump's talks",
-          "link": "https://www.npr.org/2026/11/21/nx-s1-6047379/military-analyst-phillips-obrien-on-ukraine-and-europe-being-left-out-of-trumps-talks",
-          "date": "Sat, 21 Nov 2026 07:40:18 -0500"
-        },
-        {
-          "title": "Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI",
-          "link": "https://www.npr.org/2026/11/21/g-s1-154922/anthropic-worker-claims-to-have-solved-a-holy-grail-of-math-problems-with-the-help-of-ai",
-          "date": "Sat, 21 Nov 2026 07:30:16 -0500"
-        },
-        {
-          "title": "Nations at UN talks on AI killer robots agree to more talks but no firm commitment to rein them in",
-          "link": "https://www.npr.org/2026/11/21/g-s1-154914/nations-at-un-talks-on-ai-killer-robots-agree-to-more-talks-but-no-firm-commitment-to-rein-them-in",
-          "date": "Sat, 21 Nov 2026 03:08:01 -0500"
         }
       ],
-      "fetched_at": "2026-11-22T07:11:30.746975+00:00"
+      "fetched_at": "2026-11-23T07:56:51.638431+00:00"
     },
     {
       "id": "guardian-world",
       "name": "The Guardian · World",
       "url": "https://www.theguardian.com/world/rss",
       "items": [
+        {
+          "title": "Russian warship sinks in Benghazi after suspected Ukrainian drone attack",
+          "link": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
+          "date": "Sun, 22 Nov 2026 21:33:44 GMT"
+        },
         {
           "title": "California’s coastal communities on alert as biggest waves in years hit state",
           "link": "https://www.theguardian.com/us-news/2026/nov/20/california-coastal-communities-alert-big-waves-hit-state",
@@ -171,9 +176,9 @@
           "date": "Wed, 18 Nov 2026 09:58:28 GMT"
         },
         {
-          "title": "European Commission accused of sugarcoating figures to release funds to Egypt",
-          "link": "https://www.theguardian.com/world/2026/nov/18/european-commission-accused-sugarcoating-figures-egypt-loans",
-          "date": "Wed, 18 Nov 2026 05:00:32 GMT"
+          "title": "Bank of England directors illegally profited from post-abolition enslavement in Cuba",
+          "link": "https://www.theguardian.com/news/2026/nov/22/bank-of-england-directors-illegally-profited-enslavement-cuba",
+          "date": "Sun, 22 Nov 2026 08:00:22 GMT"
         },
         {
           "title": "Alleged Mexican drug cartel boss ‘El Chapo Isidro’ arrested in special forces raid",
@@ -184,14 +189,9 @@
           "title": "Haitians excited but uneasy as El Salvador troops fight gangs",
           "link": "https://www.theguardian.com/world/2026/nov/21/excitement-unease-haiti-el-salvador-troops-gangs-war-bukele",
           "date": "Sat, 21 Nov 2026 11:00:57 GMT"
-        },
-        {
-          "title": "‘Weak and dizzy’: the secretive ICE force-feeding tactics that ended a Cuban father’s hunger strike",
-          "link": "https://www.theguardian.com/us-news/2026/nov/20/ice-cuba-hunger-strike-force-feeding",
-          "date": "Fri, 20 Nov 2026 11:00:31 GMT"
         }
       ],
-      "fetched_at": "2026-11-22T07:11:30.746975+00:00"
+      "fetched_at": "2026-11-23T07:56:51.638431+00:00"
     }
   ]
 }
