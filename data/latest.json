@@ -1,11 +1,31 @@
 {
-  "updated": "2026-11-24T10:11:00.127420+00:00",
+  "updated": "2026-11-25T08:55:55.227007+00:00",
   "feeds": [
     {
       "id": "bbc-globalnews",
       "name": "BBC Global News Podcast",
       "url": "https://downloads.bbc.co.uk/podcasts/worldservice/globalnews/rss.xml",
       "items": [
+        {
+          "title": "Huawei has been found guilty of bank fraud in the US",
+          "link": "http://www.bbc.co.uk/programmes/p0pprc4x",
+          "date": "Wed, 25 Nov 2026 06:05:00 +0000"
+        },
+        {
+          "title": "Is Jensen Huang's reinstatement good news for China?",
+          "link": "http://www.bbc.co.uk/programmes/p0ppp111",
+          "date": "Tue, 24 Nov 2026 16:47:00 +0000"
+        },
+        {
+          "title": "Stock markets jump after Nvidia boss reinstated",
+          "link": "http://www.bbc.co.uk/programmes/p0ppkqn5",
+          "date": "Tue, 24 Nov 2026 05:48:00 +0000"
+        },
+        {
+          "title": "Jensen Huang reinstated as Nvidia CEO",
+          "link": "http://www.bbc.co.uk/programmes/p0pphgd5",
+          "date": "Mon, 23 Nov 2026 16:08:00 +0000"
+        },
         {
           "title": "COP31 in Turkey ends without a deal",
           "link": "http://www.bbc.co.uk/programmes/p0ppdfkn",
@@ -25,29 +45,9 @@
           "title": "The Happy Pod: The 'amazing’ device that controls Tourette's",
           "link": "http://www.bbc.co.uk/programmes/p0pp4d5y",
           "date": "Sat, 21 Nov 2026 12:00:00 +0000"
-        },
-        {
-          "title": "Man found guilty of starting deadly LA wildfire",
-          "link": "http://www.bbc.co.uk/programmes/p0pp66wy",
-          "date": "Sat, 21 Nov 2026 05:00:00 +0000"
-        },
-        {
-          "title": "UK agrees deal on closer cooperation with EU",
-          "link": "http://www.bbc.co.uk/programmes/p0pp3pln",
-          "date": "Fri, 20 Nov 2026 15:29:00 +0000"
-        },
-        {
-          "title": "Abusers convicted in Joanne Young case echoing Pelicot",
-          "link": "http://www.bbc.co.uk/programmes/p0pnyk0h",
-          "date": "Fri, 20 Nov 2026 05:33:00 +0000"
-        },
-        {
-          "title": "UN court says Myanmar committed genocide against Rohingyas",
-          "link": "http://www.bbc.co.uk/programmes/p0pnw5rb",
-          "date": "Thu, 19 Nov 2026 16:03:00 +0000"
         }
       ],
-      "fetched_at": "2026-11-23T07:56:51.638431+00:00"
+      "fetched_at": "2026-11-25T08:55:55.227007+00:00"
     },
     {
       "id": "cnn10",
@@ -95,7 +95,7 @@
           "date": "Wed, 11 Nov 2026 14:51:00 -0000"
         }
       ],
-      "fetched_at": "2026-11-24T10:11:00.127420+00:00"
+      "fetched_at": "2026-11-25T08:55:55.227007+00:00"
     },
     {
       "id": "npr-world",
@@ -103,7 +103,22 @@
       "url": "https://feeds.npr.org/1004/rss.xml",
       "items": [
         {
-          "title": "Bleeding, birth defects: Congo residents sue over alleged mining pollution",
+          "title": "Africa Cup title given back to Senegal after sports court rules against Morocco",
+          "link": "https://www.npr.org/2026/11/25/nx-s1-6053783/africa-cup-senegal-morocco",
+          "date": "Wed, 25 Nov 2026 01:43:23 -0500"
+        },
+        {
+          "title": "Who really owns the Albanian land Jared Kushner wants to turn into a 5-star resort?",
+          "link": "https://www.npr.org/2026/11/24/g-s1-154623/albania-jared-kushner-land-deal-protests",
+          "date": "Tue, 24 Nov 2026 09:24:04 -0500"
+        },
+        {
+          "title": "Jensen Huang returns to Nvidia. And, Rep. Gomez resigns amid alleged sexual misconduct",
+          "link": "https://www.npr.org/2026/11/24/g-s1-155227/up-first-newsletter-nvidia-jensen-huang-trump-ukraine-russia-jimmy-gomez",
+          "date": "Tue, 24 Nov 2026 07:12:25 -0500"
+        },
+        {
+          "title": "The human cost of the electric vehicle boom is at the center of a lawsuit in Congo",
           "link": "https://www.npr.org/2026/11/24/nx-s1-6042912/drc-congo-mining-china-copper-colbalt-critical-minerals",
           "date": "Tue, 24 Nov 2026 05:00:00 -0500"
         },
@@ -126,30 +141,20 @@
           "title": "Democrats win House by largest margin in 50 years. And, COP31 ends with no deal",
           "link": "https://www.npr.org/2026/11/23/g-s1-155021/up-first-newsletter-midterms-house-ai-stocks-poland-nato-cop31",
           "date": "Mon, 23 Nov 2026 07:42:03 -0500"
-        },
-        {
-          "title": "Zelenskyy hails Ukraine's attack on a Russian warship docked at a naval base in Libya",
-          "link": "https://www.npr.org/2026/11/23/g-s1-155017/ukraine-attack-russian-warship-libya",
-          "date": "Mon, 23 Nov 2026 05:16:33 -0500"
-        },
-        {
-          "title": "Ukraine war spilling into NATO territory",
-          "link": "https://www.npr.org/2026/11/22/nx-s1-6050236/ukraine-war-spilling-into-nato-territory",
-          "date": "Sun, 22 Nov 2026 17:40:22 -0500"
-        },
-        {
-          "title": "Luxury development planned on land some Albanians say is theirs, not Jared Kushner's",
-          "link": "https://www.npr.org/2026/11/22/nx-s1-6012022/luxury-development-planned-on-land-some-albanians-say-is-theirs-not-jared-kushners",
-          "date": "Sun, 22 Nov 2026 17:39:47 -0500"
         }
       ],
-      "fetched_at": "2026-11-24T10:11:00.127420+00:00"
+      "fetched_at": "2026-11-25T08:55:55.227007+00:00"
     },
     {
       "id": "guardian-world",
       "name": "The Guardian · World",
       "url": "https://www.theguardian.com/world/rss",
       "items": [
+        {
+          "title": "More than 300 Russians killed as Moscow props up Mali’s junta, leaked data reveals",
+          "link": "https://www.theguardian.com/world/2026/nov/24/russian-fighters-killed-in-mali-africa-leaked-data",
+          "date": "Tue, 24 Nov 2026 16:00:50 GMT"
+        },
         {
           "title": "Ukraine confirms it used naval drones to strike two Russian ships off Libya",
           "link": "https://www.theguardian.com/world/2026/nov/23/ukraine-naval-drones-strike-russian-warship-libya",
@@ -171,27 +176,22 @@
           "date": "Thu, 19 Nov 2026 11:03:24 GMT"
         },
         {
-          "title": "One in four women globally unable to refuse sex within marriage, says UN",
-          "link": "https://www.theguardian.com/global-development/2026/nov/19/women-girls-rights-rape-sexual-violence-africa-marriage-unfpa",
-          "date": "Thu, 19 Nov 2026 04:00:16 GMT"
+          "title": "All hostages freed after Colombian security forces storm supermarket, says president",
+          "link": "https://www.theguardian.com/world/2026/nov/25/hostages-freed-colombia-security-forces-storm-cartagena-supermarket",
+          "date": "Wed, 25 Nov 2026 08:31:48 GMT"
         },
         {
-          "title": "Butt of the joke: Trump impersonator mocks president at Canada press dinner",
-          "link": "https://www.theguardian.com/world/2026/nov/23/canada-trump-impersonator-press-dinner",
-          "date": "Mon, 23 Nov 2026 22:41:48 GMT"
+          "title": "Colombia’s president arrives at scene of supermarket hostage siege in tourist city",
+          "link": "https://www.theguardian.com/world/2026/nov/24/cartagena-colombia-hostages-supermarket",
+          "date": "Wed, 25 Nov 2026 03:57:11 GMT"
         },
         {
-          "title": "Barbados town’s three-year deal with Bristol ‘part of the reparative process’",
-          "link": "https://www.theguardian.com/news/2026/nov/23/barbados-minister-speightstown-bristol-deal-slave-trade-reparations",
-          "date": "Mon, 23 Nov 2026 16:53:13 GMT"
-        },
-        {
-          "title": "Trump administration deported US citizen to Mexico, DoJ admits in court",
-          "link": "https://www.theguardian.com/us-news/2026/nov/23/trump-administration-deported-citizen-mexico",
-          "date": "Mon, 23 Nov 2026 11:00:56 GMT"
+          "title": "Kilmar Ábrego García, man at center of Trump deportation battle, leaves US",
+          "link": "https://www.theguardian.com/us-news/2026/nov/24/kilmar-abrego-garcia-leaves-us",
+          "date": "Tue, 24 Nov 2026 23:50:31 GMT"
         }
       ],
-      "fetched_at": "2026-11-24T10:11:00.127420+00:00"
+      "fetched_at": "2026-11-25T08:55:55.227007+00:00"
     }
   ]
 }
