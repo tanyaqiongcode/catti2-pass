@@ -1,11 +1,21 @@
 {
-  "updated": "2026-11-25T08:55:55.227007+00:00",
+  "updated": "2026-11-26T08:41:30.692300+00:00",
   "feeds": [
     {
       "id": "bbc-globalnews",
       "name": "BBC Global News Podcast",
       "url": "https://downloads.bbc.co.uk/podcasts/worldservice/globalnews/rss.xml",
       "items": [
+        {
+          "title": "Trump approves Elon Musk's plan for data centres in space",
+          "link": "http://www.bbc.co.uk/programmes/p0ppz1kd",
+          "date": "Thu, 26 Nov 2026 05:34:00 +0000"
+        },
+        {
+          "title": "US announces new tariffs on China and other countries",
+          "link": "http://www.bbc.co.uk/programmes/p0ppwqrn",
+          "date": "Wed, 25 Nov 2026 16:47:00 +0000"
+        },
         {
           "title": "Huawei has been found guilty of bank fraud in the US",
           "link": "http://www.bbc.co.uk/programmes/p0pprc4x",
@@ -35,19 +45,9 @@
           "title": "The Global Story: AI can imitate a human. But can it think like one?",
           "link": "http://www.bbc.co.uk/programmes/p0pp0406",
           "date": "Sun, 22 Nov 2026 20:00:00 +0000"
-        },
-        {
-          "title": "Deadlock at UN climate summit in Turkey",
-          "link": "http://www.bbc.co.uk/programmes/p0pp9hxv",
-          "date": "Sun, 22 Nov 2026 04:48:00 +0000"
-        },
-        {
-          "title": "The Happy Pod: The 'amazing’ device that controls Tourette's",
-          "link": "http://www.bbc.co.uk/programmes/p0pp4d5y",
-          "date": "Sat, 21 Nov 2026 12:00:00 +0000"
         }
       ],
-      "fetched_at": "2026-11-25T08:55:55.227007+00:00"
+      "fetched_at": "2026-11-26T08:41:30.692300+00:00"
     },
     {
       "id": "cnn10",
@@ -95,13 +95,38 @@
           "date": "Wed, 11 Nov 2026 14:51:00 -0000"
         }
       ],
-      "fetched_at": "2026-11-25T08:55:55.227007+00:00"
+      "fetched_at": "2026-11-26T08:41:30.692300+00:00"
     },
     {
       "id": "npr-world",
       "name": "NPR World",
       "url": "https://feeds.npr.org/1004/rss.xml",
       "items": [
+        {
+          "title": "How American Thanksgiving took root -- and evolved -- in Liberia",
+          "link": "https://www.npr.org/2026/11/25/nx-s1-6048614/thanksgiving-liberia-gratitude-prayer",
+          "date": "Wed, 25 Nov 2026 09:14:34 -0500"
+        },
+        {
+          "title": "Army to detonate tons of lead azide after delays. And, Abrego Garcia leaves U.S.",
+          "link": "https://www.npr.org/2026/11/25/g-s1-155493/up-first-newsletter-iowa-detonation-kilmar-abrego-garcia-nvidia-jensen-huang",
+          "date": "Wed, 25 Nov 2026 07:18:09 -0500"
+        },
+        {
+          "title": "Republican wants FBI and CIA answers before questioning Nvidia chief",
+          "link": "https://www.npr.org/2026/11/25/nx-s1-6052417/nvidia-jensen-huang-reaction-republicans-congress-investigation",
+          "date": "Wed, 25 Nov 2026 06:50:05 -0500"
+        },
+        {
+          "title": "Greetings from Mount Kilimanjaro, Africa's highest point in all its splendor",
+          "link": "https://www.npr.org/2026/11/25/nx-s1-6051429/mount-kilimanjaro-africa-tanzania",
+          "date": "Wed, 25 Nov 2026 06:00:00 -0500"
+        },
+        {
+          "title": "China investigates Politburo member and Shanghai party chief Chen Jining",
+          "link": "https://www.npr.org/2026/11/25/nx-s1-6053801/china-investigation-politburo-shanghai-party",
+          "date": "Wed, 25 Nov 2026 04:44:13 -0500"
+        },
         {
           "title": "Africa Cup title given back to Senegal after sports court rules against Morocco",
           "link": "https://www.npr.org/2026/11/25/nx-s1-6053783/africa-cup-senegal-morocco",
@@ -116,40 +141,30 @@
           "title": "Jensen Huang returns to Nvidia. And, Rep. Gomez resigns amid alleged sexual misconduct",
           "link": "https://www.npr.org/2026/11/24/g-s1-155227/up-first-newsletter-nvidia-jensen-huang-trump-ukraine-russia-jimmy-gomez",
           "date": "Tue, 24 Nov 2026 07:12:25 -0500"
-        },
-        {
-          "title": "The human cost of the electric vehicle boom is at the center of a lawsuit in Congo",
-          "link": "https://www.npr.org/2026/11/24/nx-s1-6042912/drc-congo-mining-china-copper-colbalt-critical-minerals",
-          "date": "Tue, 24 Nov 2026 05:00:00 -0500"
-        },
-        {
-          "title": "Meet Colombia's fuzzy 'water guardians'",
-          "link": "https://www.npr.org/2026/11/24/nx-s1-6038806/colombia-water-plants-frailejons",
-          "date": "Tue, 24 Nov 2026 05:00:00 -0500"
-        },
-        {
-          "title": "Fighting between Russia and Ukraine has expanded geographically, drawing concerns",
-          "link": "https://www.npr.org/2026/11/24/nx-s1-6051564/fighting-between-russia-and-ukraine-has-expanded-geographically-drawing-concerns",
-          "date": "Tue, 24 Nov 2026 04:52:03 -0500"
-        },
-        {
-          "title": "Russian incursions into NATO territory are increasing",
-          "link": "https://www.npr.org/2026/11/23/nx-s1-6051013/russian-incursions-into-nato-territory-are-increasing",
-          "date": "Mon, 23 Nov 2026 18:08:51 -0500"
-        },
-        {
-          "title": "Democrats win House by largest margin in 50 years. And, COP31 ends with no deal",
-          "link": "https://www.npr.org/2026/11/23/g-s1-155021/up-first-newsletter-midterms-house-ai-stocks-poland-nato-cop31",
-          "date": "Mon, 23 Nov 2026 07:42:03 -0500"
         }
       ],
-      "fetched_at": "2026-11-25T08:55:55.227007+00:00"
+      "fetched_at": "2026-11-26T08:41:30.692300+00:00"
     },
     {
       "id": "guardian-world",
       "name": "The Guardian · World",
       "url": "https://www.theguardian.com/world/rss",
       "items": [
+        {
+          "title": "At least 31 killed as fuel tanker crash ignites large fire on Cairo highway",
+          "link": "https://www.theguardian.com/world/2026/nov/25/people-killed-fuel-tanker-crash-ignites-large-fire-cairo-highway",
+          "date": "Thu, 26 Nov 2026 00:39:10 GMT"
+        },
+        {
+          "title": "Swiss tourist killed and British and Americans injured by elephants in Cameroon",
+          "link": "https://www.theguardian.com/environment/2026/nov/25/swiss-tourist-killed-british-americans-injured-elephants-cameroon",
+          "date": "Wed, 25 Nov 2026 14:03:18 GMT"
+        },
+        {
+          "title": "Sri Lankan asylum seeker killed himself after being sent by UK to Eswatini",
+          "link": "https://www.theguardian.com/uk-news/2026/nov/25/sri-lanka-asylum-seeker-convicted-sexual-assault-uk-kills-himself-eswatini",
+          "date": "Wed, 25 Nov 2026 11:28:05 GMT"
+        },
         {
           "title": "More than 300 Russians killed as Moscow props up Mali’s junta, leaked data reveals",
           "link": "https://www.theguardian.com/world/2026/nov/24/russian-fighters-killed-in-mali-africa-leaked-data",
@@ -161,37 +176,22 @@
           "date": "Mon, 23 Nov 2026 11:42:51 GMT"
         },
         {
-          "title": "Russian warship sinks in Benghazi after suspected Ukrainian drone attack",
-          "link": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
-          "date": "Sun, 22 Nov 2026 21:33:44 GMT"
-        },
-        {
-          "title": "California’s coastal communities on alert as biggest waves in years hit state",
-          "link": "https://www.theguardian.com/us-news/2026/nov/20/california-coastal-communities-alert-big-waves-hit-state",
-          "date": "Fri, 20 Nov 2026 09:03:20 GMT"
-        },
-        {
-          "title": "Race to replant five South African baobabs after export blocked",
-          "link": "https://www.theguardian.com/environment/2026/nov/19/baobab-five-trees-south-africa-dug-up-export-blocked-georgia-aoe",
-          "date": "Thu, 19 Nov 2026 11:03:24 GMT"
-        },
-        {
-          "title": "All hostages freed after Colombian security forces storm supermarket, says president",
+          "title": "All hostages rescued after Colombian security forces storm supermarket, police say",
           "link": "https://www.theguardian.com/world/2026/nov/25/hostages-freed-colombia-security-forces-storm-cartagena-supermarket",
-          "date": "Wed, 25 Nov 2026 08:31:48 GMT"
+          "date": "Wed, 25 Nov 2026 20:20:23 GMT"
+        },
+        {
+          "title": "Lululemon founder stuns Canadian women’s leadership conference with sexist comments",
+          "link": "https://www.theguardian.com/world/2026/nov/25/lululemon-founder-comments-canada-womens-leadership-conference",
+          "date": "Wed, 25 Nov 2026 19:57:49 GMT"
         },
         {
           "title": "Colombia’s president arrives at scene of supermarket hostage siege in tourist city",
           "link": "https://www.theguardian.com/world/2026/nov/24/cartagena-colombia-hostages-supermarket",
           "date": "Wed, 25 Nov 2026 03:57:11 GMT"
-        },
-        {
-          "title": "Kilmar Ábrego García, man at center of Trump deportation battle, leaves US",
-          "link": "https://www.theguardian.com/us-news/2026/nov/24/kilmar-abrego-garcia-leaves-us",
-          "date": "Tue, 24 Nov 2026 23:50:31 GMT"
         }
       ],
-      "fetched_at": "2026-11-25T08:55:55.227007+00:00"
+      "fetched_at": "2026-11-26T08:41:30.692300+00:00"
     }
   ]
 }
