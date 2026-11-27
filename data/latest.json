@@ -1,11 +1,21 @@
 {
-  "updated": "2026-11-26T08:41:30.692300+00:00",
+  "updated": "2026-11-27T08:53:11.809786+00:00",
   "feeds": [
     {
       "id": "bbc-globalnews",
       "name": "BBC Global News Podcast",
       "url": "https://downloads.bbc.co.uk/podcasts/worldservice/globalnews/rss.xml",
       "items": [
+        {
+          "title": "President Zelensky voices his frustration with the US",
+          "link": "http://www.bbc.co.uk/programmes/p0pq5lhm",
+          "date": "Fri, 27 Nov 2026 05:20:00 +0000"
+        },
+        {
+          "title": "Net migration to UK at lowest level since 1997",
+          "link": "http://www.bbc.co.uk/programmes/p0pq2ymt",
+          "date": "Thu, 26 Nov 2026 16:09:00 +0000"
+        },
         {
           "title": "Trump approves Elon Musk's plan for data centres in space",
           "link": "http://www.bbc.co.uk/programmes/p0ppz1kd",
@@ -35,19 +45,9 @@
           "title": "Jensen Huang reinstated as Nvidia CEO",
           "link": "http://www.bbc.co.uk/programmes/p0pphgd5",
           "date": "Mon, 23 Nov 2026 16:08:00 +0000"
-        },
-        {
-          "title": "COP31 in Turkey ends without a deal",
-          "link": "http://www.bbc.co.uk/programmes/p0ppdfkn",
-          "date": "Mon, 23 Nov 2026 05:48:00 +0000"
-        },
-        {
-          "title": "The Global Story: AI can imitate a human. But can it think like one?",
-          "link": "http://www.bbc.co.uk/programmes/p0pp0406",
-          "date": "Sun, 22 Nov 2026 20:00:00 +0000"
         }
       ],
-      "fetched_at": "2026-11-26T08:41:30.692300+00:00"
+      "fetched_at": "2026-11-27T08:53:11.809786+00:00"
     },
     {
       "id": "cnn10",
@@ -95,7 +95,7 @@
           "date": "Wed, 11 Nov 2026 14:51:00 -0000"
         }
       ],
-      "fetched_at": "2026-11-26T08:41:30.692300+00:00"
+      "fetched_at": "2026-11-27T08:53:11.809786+00:00"
     },
     {
       "id": "npr-world",
@@ -103,7 +103,27 @@
       "url": "https://feeds.npr.org/1004/rss.xml",
       "items": [
         {
-          "title": "How American Thanksgiving took root -- and evolved -- in Liberia",
+          "title": "Strobe Talbott, former Time magazine reporter and deputy secretary of state, has died",
+          "link": "https://www.npr.org/2026/11/27/g-s1-155990/strobe-talbott-obit",
+          "date": "Fri, 27 Nov 2026 01:12:45 -0500"
+        },
+        {
+          "title": "Congo Ebola outbreak reaches 12,000 cases as some responders evacuate",
+          "link": "https://www.npr.org/2026/11/26/g-s1-155957/congo-ebola-responders",
+          "date": "Thu, 26 Nov 2026 08:47:09 -0500"
+        },
+        {
+          "title": "North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture",
+          "link": "https://www.npr.org/2026/11/26/g-s1-155955/north-korea-kim-nuclear-weapons-trump",
+          "date": "Thu, 26 Nov 2026 08:31:28 -0500"
+        },
+        {
+          "title": "Storms disrupt Thanksgiving travel. And, FCC violated ABC's free speech, judge says",
+          "link": "https://www.npr.org/2026/11/26/g-s1-155950/up-first-newsletter-thanksgiving-weather-travel-trump-tariffs-iowa-detonation-fcc-free-speech",
+          "date": "Thu, 26 Nov 2026 07:24:29 -0500"
+        },
+        {
+          "title": "How American Thanksgiving took root — and evolved — in Liberia",
           "link": "https://www.npr.org/2026/11/25/nx-s1-6048614/thanksgiving-liberia-gratitude-prayer",
           "date": "Wed, 25 Nov 2026 09:14:34 -0500"
         },
@@ -121,35 +141,25 @@
           "title": "Greetings from Mount Kilimanjaro, Africa's highest point in all its splendor",
           "link": "https://www.npr.org/2026/11/25/nx-s1-6051429/mount-kilimanjaro-africa-tanzania",
           "date": "Wed, 25 Nov 2026 06:00:00 -0500"
-        },
-        {
-          "title": "China investigates Politburo member and Shanghai party chief Chen Jining",
-          "link": "https://www.npr.org/2026/11/25/nx-s1-6053801/china-investigation-politburo-shanghai-party",
-          "date": "Wed, 25 Nov 2026 04:44:13 -0500"
-        },
-        {
-          "title": "Africa Cup title given back to Senegal after sports court rules against Morocco",
-          "link": "https://www.npr.org/2026/11/25/nx-s1-6053783/africa-cup-senegal-morocco",
-          "date": "Wed, 25 Nov 2026 01:43:23 -0500"
-        },
-        {
-          "title": "Who really owns the Albanian land Jared Kushner wants to turn into a 5-star resort?",
-          "link": "https://www.npr.org/2026/11/24/g-s1-154623/albania-jared-kushner-land-deal-protests",
-          "date": "Tue, 24 Nov 2026 09:24:04 -0500"
-        },
-        {
-          "title": "Jensen Huang returns to Nvidia. And, Rep. Gomez resigns amid alleged sexual misconduct",
-          "link": "https://www.npr.org/2026/11/24/g-s1-155227/up-first-newsletter-nvidia-jensen-huang-trump-ukraine-russia-jimmy-gomez",
-          "date": "Tue, 24 Nov 2026 07:12:25 -0500"
         }
       ],
-      "fetched_at": "2026-11-26T08:41:30.692300+00:00"
+      "fetched_at": "2026-11-27T08:53:11.809786+00:00"
     },
     {
       "id": "guardian-world",
       "name": "The Guardian · World",
       "url": "https://www.theguardian.com/world/rss",
       "items": [
+        {
+          "title": "Mad about mara: the DIY dance movement helping young Nigerians escape the daily grind",
+          "link": "https://www.theguardian.com/world/2026/nov/27/mad-about-mara-the-diy-dance-movement-helping-young-nigerians-escape-the-daily-grind",
+          "date": "Fri, 27 Nov 2026 06:00:56 GMT"
+        },
+        {
+          "title": "‘I’m no longer a UAE official’: UN hopeful Lana Nusseibeh tries to shake off Sudan record",
+          "link": "https://www.theguardian.com/world/2026/nov/26/lana-nusseibeh-uae-sudan-un-secretary-general",
+          "date": "Thu, 26 Nov 2026 12:37:42 GMT"
+        },
         {
           "title": "At least 31 killed as fuel tanker crash ignites large fire on Cairo highway",
           "link": "https://www.theguardian.com/world/2026/nov/25/people-killed-fuel-tanker-crash-ignites-large-fire-cairo-highway",
@@ -164,16 +174,6 @@
           "title": "Sri Lankan asylum seeker killed himself after being sent by UK to Eswatini",
           "link": "https://www.theguardian.com/uk-news/2026/nov/25/sri-lanka-asylum-seeker-convicted-sexual-assault-uk-kills-himself-eswatini",
           "date": "Wed, 25 Nov 2026 11:28:05 GMT"
-        },
-        {
-          "title": "More than 300 Russians killed as Moscow props up Mali’s junta, leaked data reveals",
-          "link": "https://www.theguardian.com/world/2026/nov/24/russian-fighters-killed-in-mali-africa-leaked-data",
-          "date": "Tue, 24 Nov 2026 16:00:50 GMT"
-        },
-        {
-          "title": "Ukraine confirms it used naval drones to strike two Russian ships off Libya",
-          "link": "https://www.theguardian.com/world/2026/nov/23/ukraine-naval-drones-strike-russian-warship-libya",
-          "date": "Mon, 23 Nov 2026 11:42:51 GMT"
         },
         {
           "title": "All hostages rescued after Colombian security forces storm supermarket, police say",
@@ -191,7 +191,7 @@
           "date": "Wed, 25 Nov 2026 03:57:11 GMT"
         }
       ],
-      "fetched_at": "2026-11-26T08:41:30.692300+00:00"
+      "fetched_at": "2026-11-27T08:53:11.809786+00:00"
     }
   ]
 }
