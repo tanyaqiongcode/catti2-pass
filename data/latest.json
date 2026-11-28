@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T08:53:11.809786+00:00",
+  "updated": "2026-11-28T08:12:26.669528+00:00",
   "feeds": [
     {
       "id": "bbc-globalnews",
@@ -95,13 +95,23 @@
           "date": "Wed, 11 Nov 2026 14:51:00 -0000"
         }
       ],
-      "fetched_at": "2026-11-27T08:53:11.809786+00:00"
+      "fetched_at": "2026-11-28T08:12:26.669528+00:00"
     },
     {
       "id": "npr-world",
       "name": "NPR World",
       "url": "https://feeds.npr.org/1004/rss.xml",
       "items": [
+        {
+          "title": "French cinema star Gérard Depardieu ordered to stand trial for rape and sexual assault",
+          "link": "https://www.npr.org/2026/11/27/nx-s1-6055559/gerard-depardieu-trial-rape-france",
+          "date": "Fri, 27 Nov 2026 06:49:50 -0500"
+        },
+        {
+          "title": "As UN Secretary General's last day approaches, search for his replacement continues",
+          "link": "https://www.npr.org/2026/11/27/nx-s1-6050907/as-un-secretary-generals-last-day-approaches-search-for-his-replacement-continues",
+          "date": "Fri, 27 Nov 2026 04:46:13 -0500"
+        },
         {
           "title": "Strobe Talbott, former Time magazine reporter and deputy secretary of state, has died",
           "link": "https://www.npr.org/2026/11/27/g-s1-155990/strobe-talbott-obit",
@@ -131,19 +141,9 @@
           "title": "Army to detonate tons of lead azide after delays. And, Abrego Garcia leaves U.S.",
           "link": "https://www.npr.org/2026/11/25/g-s1-155493/up-first-newsletter-iowa-detonation-kilmar-abrego-garcia-nvidia-jensen-huang",
           "date": "Wed, 25 Nov 2026 07:18:09 -0500"
-        },
-        {
-          "title": "Republican wants FBI and CIA answers before questioning Nvidia chief",
-          "link": "https://www.npr.org/2026/11/25/nx-s1-6052417/nvidia-jensen-huang-reaction-republicans-congress-investigation",
-          "date": "Wed, 25 Nov 2026 06:50:05 -0500"
-        },
-        {
-          "title": "Greetings from Mount Kilimanjaro, Africa's highest point in all its splendor",
-          "link": "https://www.npr.org/2026/11/25/nx-s1-6051429/mount-kilimanjaro-africa-tanzania",
-          "date": "Wed, 25 Nov 2026 06:00:00 -0500"
         }
       ],
-      "fetched_at": "2026-11-27T08:53:11.809786+00:00"
+      "fetched_at": "2026-11-28T08:12:26.669528+00:00"
     },
     {
       "id": "guardian-world",
@@ -176,22 +176,22 @@
           "date": "Wed, 25 Nov 2026 11:28:05 GMT"
         },
         {
+          "title": "‘Abusive and insulting to Canadians’: campaign to oust US ambassador presented to parliament",
+          "link": "https://www.theguardian.com/world/2026/nov/27/pete-hoekstra-canada-us-ambassador-petition",
+          "date": "Fri, 27 Nov 2026 21:24:10 GMT"
+        },
+        {
+          "title": "Canada’s top court upholds Quebec law barring public sector workers from wearing religious symbols",
+          "link": "https://www.theguardian.com/world/2026/nov/27/canadas-top-court-upholds-quebec-law-barring-public-sector-workers-from-wearing-religious-symbols",
+          "date": "Fri, 27 Nov 2026 16:13:07 GMT"
+        },
+        {
           "title": "All hostages rescued after Colombian security forces storm supermarket, police say",
           "link": "https://www.theguardian.com/world/2026/nov/25/hostages-freed-colombia-security-forces-storm-cartagena-supermarket",
           "date": "Wed, 25 Nov 2026 20:20:23 GMT"
-        },
-        {
-          "title": "Lululemon founder stuns Canadian women’s leadership conference with sexist comments",
-          "link": "https://www.theguardian.com/world/2026/nov/25/lululemon-founder-comments-canada-womens-leadership-conference",
-          "date": "Wed, 25 Nov 2026 19:57:49 GMT"
-        },
-        {
-          "title": "Colombia’s president arrives at scene of supermarket hostage siege in tourist city",
-          "link": "https://www.theguardian.com/world/2026/nov/24/cartagena-colombia-hostages-supermarket",
-          "date": "Wed, 25 Nov 2026 03:57:11 GMT"
         }
       ],
-      "fetched_at": "2026-11-27T08:53:11.809786+00:00"
+      "fetched_at": "2026-11-28T08:12:26.669528+00:00"
     }
   ]
 }
